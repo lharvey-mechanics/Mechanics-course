@@ -1,0 +1,3438 @@
+{
+  "meta": {
+    "generated_from": "Mechanics Terms - Filled.xlsx",
+    "credits": [
+      {
+        "level": 1000,
+        "credit": "MEC1015",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 01 — Careers in Automotive Technology",
+            "number": 1
+          },
+          {
+            "name": "Chapter 02 — Introduction to Automotive Technology",
+            "number": 2
+          },
+          {
+            "name": "Chapter 03 — Introduction to Automotive Safety",
+            "number": 3
+          },
+          {
+            "name": "Chapter 04 — Personal Protective Equipment (PPE)",
+            "number": 4
+          },
+          {
+            "name": "Chapter 05 — Vehicle Protection and Jack/Lift Safety",
+            "number": 5
+          },
+          {
+            "name": "Chapter 08 — Hand Tools",
+            "number": 8
+          },
+          {
+            "name": "Chapter 09 — Measuring Tools",
+            "number": 9
+          },
+          {
+            "name": "Chapter 10 — Power Tools and Equipment",
+            "number": 10
+          },
+          {
+            "name": "Chapter 12 — Fasteners and Thread Repair",
+            "number": 12
+          },
+          {
+            "name": "Chapter 14 — Employability Skills",
+            "number": 14
+          }
+        ]
+      },
+      {
+        "level": 1000,
+        "credit": "MEC1020",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 06 — Vehicle Service Information",
+            "number": 6
+          },
+          {
+            "name": "Chapter 07 — Strategy-Based Diagnosis and Repair Orders",
+            "number": 7
+          },
+          {
+            "name": "Chapter 13 — Vehicle Maintenance Inspection",
+            "number": 13
+          },
+          {
+            "name": "Chapter 15 — Communication Skills",
+            "number": 15
+          },
+          {
+            "name": "Chapter 19 — Servicing the Lubrication System",
+            "number": 19
+          }
+        ]
+      },
+      {
+        "level": 1000,
+        "credit": "MEC1040",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 16 — Motive Power Theory (Engines)",
+            "number": 16
+          },
+          {
+            "name": "Chapter 17 — Engine Mechanical Testing",
+            "number": 17
+          },
+          {
+            "name": "Chapter 18 — Lubrication System Theory",
+            "number": 18
+          },
+          {
+            "name": "Chapter 20 — Cooling System Theory",
+            "number": 20
+          }
+        ]
+      },
+      {
+        "level": 1000,
+        "credit": "MEC1150",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 54 — Wheel Bearings",
+            "number": 54
+          }
+        ]
+      },
+      {
+        "level": 1000,
+        "credit": "MEC1165",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 11 — Heating, Brazing, Welding, and Cutting",
+            "number": 11
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2020",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 13 — Vehicle Maintenance Inspection (support reading)",
+            "number": 13
+          },
+          {
+            "name": "Chapter 41 — Servicing Wheels and Tires",
+            "number": 41
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2030",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 18 — Lubrication System Theory (support reading)",
+            "number": 18
+          },
+          {
+            "name": "Chapter 20 — Cooling System Theory (support reading)",
+            "number": 20
+          },
+          {
+            "name": "Chapter 21 — Servicing the Cooling System",
+            "number": 21
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2040",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 70 — Gasoline Fuel Systems",
+            "number": 70
+          },
+          {
+            "name": "Chapter 71 — Induction and Exhaust Systems",
+            "number": 71
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2050",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 33 — Hybrid and CVT Transmissions (support reading)",
+            "number": 33
+          },
+          {
+            "name": "Chapter 75 — Alternative Fuel Systems",
+            "number": 75
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2060",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 69 — Ignition Systems",
+            "number": 69
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2070",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 73 — Emissions Control Systems",
+            "number": 73
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2090",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 56 — Electrical System Fundamentals",
+            "number": 56
+          },
+          {
+            "name": "Chapter 57 — Electrical Components and Wiring Repair",
+            "number": 57
+          },
+          {
+            "name": "Chapter 58 — Meter Usage and Circuit Diagnosis",
+            "number": 58
+          },
+          {
+            "name": "Chapter 59 — Battery Systems",
+            "number": 59
+          },
+          {
+            "name": "Chapter 60 — Starting Systems",
+            "number": 60
+          },
+          {
+            "name": "Chapter 61 — Charging Systems",
+            "number": 61
+          },
+          {
+            "name": "Chapter 62 — Lighting System",
+            "number": 62
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2100",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 64 — Network Communications and Body Accessories",
+            "number": 64
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2110",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 47 — Braking System Fundamentals",
+            "number": 47
+          },
+          {
+            "name": "Chapter 48 — Hydraulics and Power Brakes Theory",
+            "number": 48
+          },
+          {
+            "name": "Chapter 49 — Servicing the Hydraulic System and Power Brakes",
+            "number": 49
+          },
+          {
+            "name": "Chapter 50 — Disc Brake System Theory",
+            "number": 50
+          },
+          {
+            "name": "Chapter 51 — Servicing the Disc Brake System",
+            "number": 51
+          },
+          {
+            "name": "Chapter 52 — Drum Brake System Theory",
+            "number": 52
+          },
+          {
+            "name": "Chapter 53 — Servicing the Drum Brake System",
+            "number": 53
+          },
+          {
+            "name": "Chapter 55 — Electronic Brake Control Systems",
+            "number": 55
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2130",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 34 — Manual Drivetrain Fundamentals (support reading)",
+            "number": 34
+          },
+          {
+            "name": "Chapter 38 — Driveshafts, Axles, and Final Drives",
+            "number": 38
+          },
+          {
+            "name": "Chapter 39 — Four-Wheel Drive and All-Wheel Drive Systems",
+            "number": 39
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2140",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 31 — Servicing Automatic Transmissions: Transaxles",
+            "number": 31
+          },
+          {
+            "name": "Chapter 35 — Clutch Systems",
+            "number": 35
+          },
+          {
+            "name": "Chapter 36 — Servicing Manual Transmissions: Transaxles",
+            "number": 36
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2150",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 40 — Wheels and Tires Theory (support reading)",
+            "number": 40
+          },
+          {
+            "name": "Chapter 44 — Suspension System Theory",
+            "number": 44
+          },
+          {
+            "name": "Chapter 45 — Servicing the Suspension System",
+            "number": 45
+          }
+        ]
+      },
+      {
+        "level": 2000,
+        "credit": "MEC2160",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 42 — Steering System Theory",
+            "number": 42
+          },
+          {
+            "name": "Chapter 43 — Servicing the Steering System",
+            "number": 43
+          },
+          {
+            "name": "Chapter 46 — Wheel Alignment",
+            "number": 46
+          }
+        ]
+      },
+      {
+        "level": 3000,
+        "credit": "MEC3050",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 22 — Engine Removal and Replacement",
+            "number": 22
+          }
+        ]
+      },
+      {
+        "level": 3000,
+        "credit": "MEC3060",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 23 — Cylinder Head Components and Service",
+            "number": 23
+          }
+        ]
+      },
+      {
+        "level": 3000,
+        "credit": "MEC3070",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 24 — Engine Block Components and Service",
+            "number": 24
+          },
+          {
+            "name": "Chapter 25 — Engine Machining",
+            "number": 25
+          },
+          {
+            "name": "Chapter 26 — Engine Assembly",
+            "number": 26
+          }
+        ]
+      },
+      {
+        "level": 3000,
+        "credit": "MEC3080",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 74 — Electric, Hybrid, and Fuel Cell Electric Vehicles",
+            "number": 74
+          }
+        ]
+      },
+      {
+        "level": 3000,
+        "credit": "MEC3090",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 63 — Computer Controlled Systems (support reading)",
+            "number": 63
+          },
+          {
+            "name": "Chapter 72 — Engine Management and OBD Systems",
+            "number": 72
+          }
+        ]
+      },
+      {
+        "level": 3000,
+        "credit": "MEC3100",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 65 — Safety, Entertainment, and Antitheft Systems",
+            "number": 65
+          }
+        ]
+      },
+      {
+        "level": 3000,
+        "credit": "MEC3110",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 66 — Heating and A/C Fundamentals",
+            "number": 66
+          },
+          {
+            "name": "Chapter 67 — Servicing Heating and A/C Systems",
+            "number": 67
+          },
+          {
+            "name": "Chapter 68 — Climate Control Systems",
+            "number": 68
+          }
+        ]
+      },
+      {
+        "level": 3000,
+        "credit": "MEC3130",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 27 — Automatic Transmission Fundamentals",
+            "number": 27
+          },
+          {
+            "name": "Chapter 28 — Hydraulic Fundamentals (Auto Trans)",
+            "number": 28
+          },
+          {
+            "name": "Chapter 29 — Hydraulically Controlled Transmissions",
+            "number": 29
+          },
+          {
+            "name": "Chapter 30 — Electronically Controlled Transmissions",
+            "number": 30
+          }
+        ]
+      },
+      {
+        "level": 3000,
+        "credit": "MEC3140",
+        "title": "",
+        "chapters": [
+          {
+            "name": "Chapter 32 — Rebuilding Automatic Transmissions/Transaxles",
+            "number": 32
+          },
+          {
+            "name": "Chapter 37 — Rebuilding Manual Transmissions/Transaxles",
+            "number": 37
+          }
+        ]
+      }
+    ]
+  },
+  "terms": [
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 01 — Careers in Automotive Technology",
+      "term": "Apprenticeship",
+      "definition": "A paid training pathway where you learn on the job while completing required schooling.",
+      "example": "A first-year apprentice works with a journeyperson while logging hours and tasks."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 01 — Careers in Automotive Technology",
+      "term": "Flat rate",
+      "definition": "A pay system based on set labour times rather than hourly time spent.",
+      "example": "A job pays 1.2 hours even if it takes longer or shorter."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 01 — Careers in Automotive Technology",
+      "term": "Journeyperson",
+      "definition": "A fully qualified tradesperson who has completed training and certification.",
+      "example": "The journeyperson signs off on your work and mentors you."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 01 — Careers in Automotive Technology",
+      "term": "Professionalism",
+      "definition": "Behaviours that show you are reliable and respectful at work.",
+      "example": "Arrive on time, wear PPE, keep your bay clean, communicate clearly."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 01 — Careers in Automotive Technology",
+      "term": "Red Seal",
+      "definition": "A Canadian standard that lets a certified tradesperson work across provinces/territories.",
+      "example": "A technician with Red Seal can apply for jobs in other provinces more easily."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 01 — Careers in Automotive Technology",
+      "term": "Specialization",
+      "definition": "A focused area of automotive work (e.g., electrical, driveline, brakes).",
+      "example": "A shop may have one tech who handles most diagnostic electrical issues."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 02 — Introduction to Automotive Technology",
+      "term": "Chassis",
+      "definition": "The vehicle’s structural and mechanical base systems.",
+      "example": "Steering, suspension, brakes, and frame/structure."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 02 — Introduction to Automotive Technology",
+      "term": "Diagnosis",
+      "definition": "Finding the cause of a problem using tests and evidence.",
+      "example": "Confirm a no-start is a battery issue using a multimeter and load test."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 02 — Introduction to Automotive Technology",
+      "term": "Powertrain",
+      "definition": "Parts that make and deliver power to move the vehicle.",
+      "example": "Engine + transmission + driveline components that turn the wheels."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 02 — Introduction to Automotive Technology",
+      "term": "Preventive maintenance",
+      "definition": "Service done to prevent problems before they happen.",
+      "example": "Oil changes, inspections, tyre rotations, and fluid checks."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 03 — Introduction to Automotive Safety",
+      "term": "Fire class",
+      "definition": "A category that tells you what type of fuel is burning.",
+      "example": "Use the correct extinguisher for fuel/oil fires, not just water."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 03 — Introduction to Automotive Safety",
+      "term": "Hazard",
+      "definition": "Anything that can cause harm.",
+      "example": "A spinning fan, hot exhaust, or leaking fuel."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 03 — Introduction to Automotive Safety",
+      "term": "Risk assessment",
+      "definition": "Thinking through what could go wrong and how to reduce it.",
+      "example": "Before lifting a vehicle, check lift points and stability."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 03 — Introduction to Automotive Safety",
+      "term": "Safe work procedure",
+      "definition": "A step-by-step method that reduces danger.",
+      "example": "Use a checklist before starting a grinder or hoist."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 03 — Introduction to Automotive Safety",
+      "term": "Ventilation",
+      "definition": "Moving air to reduce fumes and dust.",
+      "example": "Run exhaust extraction when a vehicle is idling indoors."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 04 — Personal Protective Equipment (PPE)",
+      "term": "CSA-approved footwear",
+      "definition": "Work boots meeting safety standards (toe protection, etc.).",
+      "example": "Wear boots in the shop to prevent foot injuries from dropped tools."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 04 — Personal Protective Equipment (PPE)",
+      "term": "Hierarchy of controls",
+      "definition": "A safety model: remove hazards first, PPE last.",
+      "example": "Use guards and procedures before relying on gloves alone."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 04 — Personal Protective Equipment (PPE)",
+      "term": "PPE",
+      "definition": "Equipment worn to reduce injury risk.",
+      "example": "Safety glasses, gloves, hearing protection, and boots."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 04 — Personal Protective Equipment (PPE)",
+      "term": "Respirator",
+      "definition": "A mask that filters harmful particles or vapours.",
+      "example": "Wear one when sanding body filler or working with strong solvents."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 05 — Vehicle Protection and Jack/Lift Safety",
+      "term": "Centre of gravity",
+      "definition": "The balance point of an object’s weight.",
+      "example": "A vehicle must be positioned so it won’t tip on the hoist."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 05 — Vehicle Protection and Jack/Lift Safety",
+      "term": "Hoist safety lock",
+      "definition": "A mechanism that holds a lift in place.",
+      "example": "Lower the lift onto the locks before working under the vehicle."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 05 — Vehicle Protection and Jack/Lift Safety",
+      "term": "Jack stand",
+      "definition": "A support stand used after lifting with a jack.",
+      "example": "After jacking a car, place stands before working underneath."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 05 — Vehicle Protection and Jack/Lift Safety",
+      "term": "Lift point",
+      "definition": "A safe spot on a vehicle designed to support its weight.",
+      "example": "Use manufacturer lift points to avoid crushing rocker panels."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 08 — Hand Tools",
+      "term": "Fastener",
+      "definition": "A part that holds components together (bolt, nut, screw).",
+      "example": "Choose the right fastener type and size for a bracket."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 08 — Hand Tools",
+      "term": "Socket and ratchet",
+      "definition": "Tools used to loosen/tighten fasteners with a socket.",
+      "example": "Use the correct socket size to avoid rounding a nut."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 08 — Hand Tools",
+      "term": "Tool maintenance",
+      "definition": "Keeping tools clean and in good condition.",
+      "example": "Wipe down tools and return them to the correct storage spot."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 08 — Hand Tools",
+      "term": "Torque wrench",
+      "definition": "A wrench that measures tightening force.",
+      "example": "Tighten lug nuts to the specified torque."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 09 — Measuring Tools",
+      "term": "Caliper",
+      "definition": "A tool for measuring inside/outside dimensions and depth.",
+      "example": "Measure brake rotor thickness or a bolt diameter."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 09 — Measuring Tools",
+      "term": "Dial indicator",
+      "definition": "A tool that measures small movement/runout.",
+      "example": "Check rotor runout or hub wobble."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 09 — Measuring Tools",
+      "term": "Feeler gauge",
+      "definition": "Thin blades used to measure small gaps.",
+      "example": "Check spark plug gap or valve clearance (where applicable)."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 09 — Measuring Tools",
+      "term": "Micrometer",
+      "definition": "A precision tool for very accurate measurements.",
+      "example": "Measure crank journal diameter when checking engine wear."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 09 — Measuring Tools",
+      "term": "Tolerance",
+      "definition": "The allowed amount a measurement can vary and still be acceptable.",
+      "example": "A rotor thickness must be above the minimum spec."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 10 — Power Tools and Equipment",
+      "term": "Guarding",
+      "definition": "Safety covers that keep hands away from moving parts.",
+      "example": "A grinder guard helps prevent debris and contact injuries."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 10 — Power Tools and Equipment",
+      "term": "Impact wrench",
+      "definition": "A high-torque tool for loosening/tightening fasteners.",
+      "example": "Remove wheel nuts quickly, then final-torque by hand."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 10 — Power Tools and Equipment",
+      "term": "Pneumatic tool",
+      "definition": "A tool powered by compressed air.",
+      "example": "Use an air impact to remove lug nuts (with correct procedure)."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 10 — Power Tools and Equipment",
+      "term": "Regulator",
+      "definition": "A device that controls air pressure from a compressor.",
+      "example": "Set correct pressure before using air tools."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 12 — Fasteners and Thread Repair",
+      "term": "Cross-threading",
+      "definition": "Damaging threads by starting a fastener at the wrong angle.",
+      "example": "A bolt that binds immediately may be cross-threaded—stop and inspect."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 12 — Fasteners and Thread Repair",
+      "term": "Tap and die",
+      "definition": "Tools used to cut or repair threads inside a hole (tap) or on a bolt (die).",
+      "example": "Chase damaged threads before reinstalling a bolt."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 12 — Fasteners and Thread Repair",
+      "term": "Thread insert (Helicoil)",
+      "definition": "A coil or sleeve that restores threads in stripped holes.",
+      "example": "Repair stripped aluminium threads in a bracket or housing."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 12 — Fasteners and Thread Repair",
+      "term": "Thread pitch",
+      "definition": "The spacing of threads on a bolt or nut.",
+      "example": "Match the correct nut to the bolt so it threads smoothly."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 12 — Fasteners and Thread Repair",
+      "term": "Threadlocker",
+      "definition": "A liquid that helps prevent fasteners from loosening.",
+      "example": "Apply medium-strength threadlocker to bolts that vibrate loose."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 14 — Employability Skills",
+      "term": "Conflict resolution",
+      "definition": "Solving disagreements respectfully and effectively.",
+      "example": "Use calm language and focus on the task, not the person."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 14 — Employability Skills",
+      "term": "Initiative",
+      "definition": "Taking appropriate action without being told every step.",
+      "example": "Restock rags or sweep your area when you notice it needs doing."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 14 — Employability Skills",
+      "term": "Reliability",
+      "definition": "Being dependable and consistent.",
+      "example": "Finish tasks, follow instructions, and show up prepared."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1015",
+      "chapter": "Chapter 14 — Employability Skills",
+      "term": "Teamwork",
+      "definition": "Working well with others to meet a shared goal.",
+      "example": "Coordinate with another student to safely lift and support a vehicle."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 06 — Vehicle Service Information",
+      "term": "Service interval",
+      "definition": "The recommended timing for maintenance tasks.",
+      "example": "Oil change every set kilometres or months (per manual)."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 06 — Vehicle Service Information",
+      "term": "Torque specification",
+      "definition": "The manufacturer’s required tightening value.",
+      "example": "Look up and apply torque specs for drain plugs or wheel nuts."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 06 — Vehicle Service Information",
+      "term": "TSB",
+      "definition": "A notice from a manufacturer about known issues and fixes.",
+      "example": "Check TSBs when a symptom is common on a specific model."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 06 — Vehicle Service Information",
+      "term": "VIN",
+      "definition": "A unique identification number for a vehicle.",
+      "example": "Use VIN to confirm the correct parts and specifications."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 06 — Vehicle Service Information",
+      "term": "Wiring diagram",
+      "definition": "A map of electrical circuits and connections.",
+      "example": "Trace a headlight circuit to find where voltage is lost."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 07 — Strategy-Based Diagnosis and Repair Orders",
+      "term": "3 Cs",
+      "definition": "Concern, Cause, Correction—standard repair documentation.",
+      "example": "Write: customer concern, your confirmed cause, and what you did to fix it."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 07 — Strategy-Based Diagnosis and Repair Orders",
+      "term": "Estimate",
+      "definition": "A predicted cost and time for a repair.",
+      "example": "List parts and labour time before starting work."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 07 — Strategy-Based Diagnosis and Repair Orders",
+      "term": "Repair order (RO)",
+      "definition": "A form that records the work requested and completed.",
+      "example": "Use the RO to record parts, labour, and notes."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 07 — Strategy-Based Diagnosis and Repair Orders",
+      "term": "Root cause",
+      "definition": "The real reason the problem happened.",
+      "example": "A dead battery may be caused by a failing alternator, not just “battery bad.”"
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 07 — Strategy-Based Diagnosis and Repair Orders",
+      "term": "Verification",
+      "definition": "Confirming the problem exists and confirming the fix worked.",
+      "example": "Test drive before and after a brake repair."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 13 — Vehicle Maintenance Inspection",
+      "term": "MPI",
+      "definition": "Multi-point inspection: a structured check of key systems.",
+      "example": "Use a checklist to inspect tyres, fluids, lights, and leaks."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 13 — Vehicle Maintenance Inspection",
+      "term": "Prioritization",
+      "definition": "Ranking items by importance (safety first).",
+      "example": "Recommend brake repair before a cabin filter replacement."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 13 — Vehicle Maintenance Inspection",
+      "term": "Serviceability",
+      "definition": "Whether a part can safely keep being used.",
+      "example": "Measure rotor thickness to decide if it’s usable."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 13 — Vehicle Maintenance Inspection",
+      "term": "Wear indicator",
+      "definition": "A sign that a part is worn out or near its limit.",
+      "example": "Tyre tread bars or brake pad wear indicators."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 15 — Communication Skills",
+      "term": "Active listening",
+      "definition": "Paying close attention and confirming what you heard.",
+      "example": "Repeat the customer concern back to confirm details."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 15 — Communication Skills",
+      "term": "Authorization",
+      "definition": "Customer approval to proceed with a repair.",
+      "example": "Get approval before installing parts or adding labour time."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 15 — Communication Skills",
+      "term": "Clarifying questions",
+      "definition": "Questions that reduce guesswork.",
+      "example": "Ask when the noise happens: cold start, braking, turning, etc."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 15 — Communication Skills",
+      "term": "Plain language",
+      "definition": "Explaining technical ideas in everyday words.",
+      "example": "Instead of “caliper seized,” say “the brake is sticking and overheating.”"
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 19 — Servicing the Lubrication System",
+      "term": "API rating",
+      "definition": "A standard that describes oil performance requirements.",
+      "example": "Choose oil that meets the required API/ILSAC spec."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 19 — Servicing the Lubrication System",
+      "term": "Crush washer",
+      "definition": "A soft washer that seals a drain plug.",
+      "example": "Replace it to prevent leaks at the drain plug."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 19 — Servicing the Lubrication System",
+      "term": "Oil filter bypass valve",
+      "definition": "A valve that allows oil to flow if the filter is restricted.",
+      "example": "A clogged filter may trigger bypass to prevent oil starvation."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 19 — Servicing the Lubrication System",
+      "term": "Service indicator",
+      "definition": "A reminder system that tracks maintenance needs.",
+      "example": "Reset the oil life monitor after an oil change."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1020",
+      "chapter": "Chapter 19 — Servicing the Lubrication System",
+      "term": "Viscosity",
+      "definition": "How thick or thin a fluid is.",
+      "example": "Use the correct oil grade listed in the manual."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 16 — Motive Power Theory (Engines)",
+      "term": "Compression ratio",
+      "definition": "How much the air-fuel mix is squeezed before ignition.",
+      "example": "Higher compression can increase efficiency but may require higher-octane fuel."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 16 — Motive Power Theory (Engines)",
+      "term": "Detonation",
+      "definition": "Uncontrolled combustion that can damage an engine.",
+      "example": "A “pinging” sound under load can indicate detonation."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 16 — Motive Power Theory (Engines)",
+      "term": "Four-stroke cycle",
+      "definition": "Intake, compression, power, exhaust—how many engines operate.",
+      "example": "Describe stroke order when explaining basic engine operation."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 16 — Motive Power Theory (Engines)",
+      "term": "Horsepower",
+      "definition": "A measure of how quickly work is done.",
+      "example": "Higher horsepower supports higher speed and performance."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 16 — Motive Power Theory (Engines)",
+      "term": "Torque",
+      "definition": "Turning force produced by the engine.",
+      "example": "Higher torque helps with acceleration and pulling power."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 17 — Engine Mechanical Testing",
+      "term": "Compression test",
+      "definition": "Measures cylinder pressure during cranking.",
+      "example": "Compare cylinder readings to find a weak cylinder."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 17 — Engine Mechanical Testing",
+      "term": "Leak-down test",
+      "definition": "Pressurizes a cylinder to find where air leaks out.",
+      "example": "Air at the intake suggests an intake valve leak."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 17 — Engine Mechanical Testing",
+      "term": "Relative compression",
+      "definition": "Comparing cylinder performance quickly (often with scope/scan tools).",
+      "example": "Use to spot one cylinder that is much weaker than others."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 17 — Engine Mechanical Testing",
+      "term": "Vacuum test",
+      "definition": "Uses manifold vacuum to hint at engine condition.",
+      "example": "Low, unstable vacuum can indicate leaks or valve issues."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 18 — Lubrication System Theory",
+      "term": "Oil gallery",
+      "definition": "A passage that directs oil to engine parts.",
+      "example": "Blocked galleries can starve bearings of oil."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 18 — Lubrication System Theory",
+      "term": "Oil pressure",
+      "definition": "Resistance to oil flow in the lubrication system.",
+      "example": "Low oil pressure can indicate wear, low oil, or pump issues."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 18 — Lubrication System Theory",
+      "term": "Oil pump",
+      "definition": "Moves oil through the engine.",
+      "example": "A worn pump may not maintain pressure at idle."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 18 — Lubrication System Theory",
+      "term": "Pressure relief valve",
+      "definition": "Limits maximum oil pressure.",
+      "example": "If stuck open, pressure may be low; if stuck closed, pressure may be high."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 20 — Cooling System Theory",
+      "term": "Coolant mixture",
+      "definition": "Correct blend of antifreeze and water.",
+      "example": "Use the right mixture to prevent freezing and overheating."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 20 — Cooling System Theory",
+      "term": "Pressure cap",
+      "definition": "Raises boiling point by pressurizing the system.",
+      "example": "A weak cap can cause boil-over at normal temperatures."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 20 — Cooling System Theory",
+      "term": "Radiator",
+      "definition": "Transfers heat from coolant to air.",
+      "example": "Blocked fins reduce cooling efficiency."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1040",
+      "chapter": "Chapter 20 — Cooling System Theory",
+      "term": "Thermostat",
+      "definition": "Controls coolant flow to maintain engine temperature.",
+      "example": "A stuck thermostat can cause overheating or slow warm-up."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1150",
+      "chapter": "Chapter 54 — Wheel Bearings",
+      "term": "End play",
+      "definition": "Small back-and-forth movement that may be measured on bearings.",
+      "example": "Use a dial indicator if checking for play."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1150",
+      "chapter": "Chapter 54 — Wheel Bearings",
+      "term": "Preload",
+      "definition": "A small amount of tightening that removes looseness in a bearing.",
+      "example": "Set preload correctly to avoid overheating or play."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1150",
+      "chapter": "Chapter 54 — Wheel Bearings",
+      "term": "Seal",
+      "definition": "Keeps grease in and dirt/water out.",
+      "example": "Replace seals when servicing bearings."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1150",
+      "chapter": "Chapter 54 — Wheel Bearings",
+      "term": "Wheel bearing",
+      "definition": "A part that lets the wheel/hub rotate smoothly.",
+      "example": "A worn bearing can cause a growl that changes with speed."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1165",
+      "chapter": "Chapter 11 — Heating, Brazing, Welding, and Cutting",
+      "term": "Brazing",
+      "definition": "Joining metal using a filler that melts ниже the base metal.",
+      "example": "Repair a small bracket using a brazing rod where appropriate."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1165",
+      "chapter": "Chapter 11 — Heating, Brazing, Welding, and Cutting",
+      "term": "Fire watch",
+      "definition": "Monitoring for sparks/embers after hot work.",
+      "example": "Check the area after cutting/grinding to prevent fires."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1165",
+      "chapter": "Chapter 11 — Heating, Brazing, Welding, and Cutting",
+      "term": "Heat-affected zone (HAZ)",
+      "definition": "Area near a weld changed by heat.",
+      "example": "A large HAZ can weaken metal if overheated."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1165",
+      "chapter": "Chapter 11 — Heating, Brazing, Welding, and Cutting",
+      "term": "MIG welding (GMAW)",
+      "definition": "A common welding process using wire feed and shielding gas.",
+      "example": "Weld thin steel for a small repair with correct settings."
+    },
+    {
+      "level": 1000,
+      "credit": "MEC1165",
+      "chapter": "Chapter 11 — Heating, Brazing, Welding, and Cutting",
+      "term": "Penetration",
+      "definition": "How deeply the weld fuses into the metal.",
+      "example": "A strong weld shows proper penetration without burn-through."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2020",
+      "chapter": "Chapter 13 — Vehicle Maintenance Inspection (support reading)",
+      "term": "Multi-point inspection (MPI)",
+      "definition": "A structured checklist to inspect key vehicle systems.",
+      "example": "Complete an MPI sheet during an oil service and note urgent items."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2020",
+      "chapter": "Chapter 13 — Vehicle Maintenance Inspection (support reading)",
+      "term": "Priority level",
+      "definition": "How urgent a repair is (safety, soon, monitor).",
+      "example": "Brake line leak = safety; cabin filter = non-urgent."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2020",
+      "chapter": "Chapter 13 — Vehicle Maintenance Inspection (support reading)",
+      "term": "Service interval",
+      "definition": "When a maintenance task should be done based on time or kilometres.",
+      "example": "Use the schedule to recommend a transmission service at the right time."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2020",
+      "chapter": "Chapter 13 — Vehicle Maintenance Inspection (support reading)",
+      "term": "Visual inspection",
+      "definition": "Checking parts using sight (and basic checks) without disassembly.",
+      "example": "Look for cracked belts, leaks, and uneven tyre wear."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2020",
+      "chapter": "Chapter 41 — Servicing Wheels and Tires",
+      "term": "Bead",
+      "definition": "The tyre edge that seals against the wheel rim.",
+      "example": "Use correct technique to seat the bead safely during mounting."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2020",
+      "chapter": "Chapter 41 — Servicing Wheels and Tires",
+      "term": "Torque-to-spec",
+      "definition": "Tightening fasteners to the manufacturer value.",
+      "example": "Torque wheel nuts in a star pattern to the correct spec."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2020",
+      "chapter": "Chapter 41 — Servicing Wheels and Tires",
+      "term": "TPMS",
+      "definition": "Tyre Pressure Monitoring System that warns about low pressure.",
+      "example": "Reset or relearn TPMS after tyre service when required."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2020",
+      "chapter": "Chapter 41 — Servicing Wheels and Tires",
+      "term": "Tyre rotation pattern",
+      "definition": "The order you move tyres to different corners.",
+      "example": "Rotate front-to-rear to reduce uneven wear (as recommended)."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2020",
+      "chapter": "Chapter 41 — Servicing Wheels and Tires",
+      "term": "Wheel balancing",
+      "definition": "Adding weights to stop vibration caused by uneven mass.",
+      "example": "Balance a wheel after mounting new tyres."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 18 — Lubrication System Theory (support reading)",
+      "term": "Bypass valve",
+      "definition": "A valve that allows flow when a filter is restricted.",
+      "example": "Understand why an engine may still get oil if the filter clogs."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 18 — Lubrication System Theory (support reading)",
+      "term": "Contamination",
+      "definition": "Unwanted material in oil/coolant (fuel, coolant, metal, dirt).",
+      "example": "Milky oil may indicate coolant contamination."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 18 — Lubrication System Theory (support reading)",
+      "term": "Oil pressure",
+      "definition": "A measurement related to resistance to oil flow.",
+      "example": "Investigate low oil pressure warning using test gauge procedures."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 18 — Lubrication System Theory (support reading)",
+      "term": "Oil viscosity",
+      "definition": "How thick or thin oil is at a given temperature.",
+      "example": "Choose the oil grade listed on the oil cap or service info."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 20 — Cooling System Theory (support reading)",
+      "term": "Air pocket",
+      "definition": "Trapped air that reduces cooling and can cause hot spots.",
+      "example": "Bleed air using the correct bleeding procedure."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 20 — Cooling System Theory (support reading)",
+      "term": "Coolant mixture",
+      "definition": "Blend of antifreeze and water for freezing/boiling protection.",
+      "example": "Test mixture with a refractometer or tester."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 20 — Cooling System Theory (support reading)",
+      "term": "Pressure cap",
+      "definition": "Cap that pressurizes the system to raise boiling point.",
+      "example": "Replace a weak cap causing boil-over."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 20 — Cooling System Theory (support reading)",
+      "term": "Thermostat",
+      "definition": "Temperature-controlled valve regulating coolant flow.",
+      "example": "A stuck thermostat can cause overheating or slow warm-up."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 21 — Servicing the Cooling System",
+      "term": "Bleeding",
+      "definition": "Removing air from the cooling system after service.",
+      "example": "Use bleeder screws or vacuum fill tools where available."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 21 — Servicing the Cooling System",
+      "term": "Coolant flush",
+      "definition": "Replacing old coolant and cleaning the system.",
+      "example": "Drain, flush, refill with the correct coolant type."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 21 — Servicing the Cooling System",
+      "term": "Electrolysis",
+      "definition": "Electrical corrosion that can damage cooling components.",
+      "example": "Check for stray voltage if corrosion is recurring."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 21 — Servicing the Cooling System",
+      "term": "Heater core",
+      "definition": "Small radiator inside the cabin used for heat.",
+      "example": "A clogged heater core can cause poor cabin heat."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2030",
+      "chapter": "Chapter 21 — Servicing the Cooling System",
+      "term": "Pressure test",
+      "definition": "Testing the cooling system for leaks under pressure.",
+      "example": "Use a pressure tester to find a slow coolant leak."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2040",
+      "chapter": "Chapter 70 — Gasoline Fuel Systems",
+      "term": "EVAP",
+      "definition": "System that captures fuel vapours so they are not released.",
+      "example": "Diagnose an EVAP leak code with a smoke test."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2040",
+      "chapter": "Chapter 70 — Gasoline Fuel Systems",
+      "term": "Fuel delivery",
+      "definition": "How fuel moves from tank to engine.",
+      "example": "Trace pump → lines → filter → rail/injectors."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2040",
+      "chapter": "Chapter 70 — Gasoline Fuel Systems",
+      "term": "Fuel pressure",
+      "definition": "Pressure in the fuel system needed for correct operation.",
+      "example": "Use a gauge or scan data to confirm spec pressure."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2040",
+      "chapter": "Chapter 70 — Gasoline Fuel Systems",
+      "term": "GDI",
+      "definition": "Gasoline Direct Injection—fuel injected directly into the cylinder.",
+      "example": "Discuss carbon buildup risks and service implications."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2040",
+      "chapter": "Chapter 70 — Gasoline Fuel Systems",
+      "term": "Injector",
+      "definition": "Device that sprays fuel into the engine.",
+      "example": "Diagnose a misfire caused by a clogged injector."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2040",
+      "chapter": "Chapter 71 — Induction and Exhaust Systems",
+      "term": "Exhaust backpressure",
+      "definition": "Resistance to exhaust flow.",
+      "example": "A restricted catalytic converter can reduce power."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2040",
+      "chapter": "Chapter 71 — Induction and Exhaust Systems",
+      "term": "Induction",
+      "definition": "The path air takes into the engine.",
+      "example": "Check for intake leaks after a rough idle complaint."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2040",
+      "chapter": "Chapter 71 — Induction and Exhaust Systems",
+      "term": "MAF sensor",
+      "definition": "Sensor measuring incoming air mass.",
+      "example": "A dirty MAF can cause poor fuel economy or drivability issues."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2040",
+      "chapter": "Chapter 71 — Induction and Exhaust Systems",
+      "term": "Throttle body",
+      "definition": "Controls airflow into the engine.",
+      "example": "Clean carbon buildup to address sticky throttle symptoms."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2040",
+      "chapter": "Chapter 71 — Induction and Exhaust Systems",
+      "term": "Turbocharger",
+      "definition": "Uses exhaust energy to compress intake air.",
+      "example": "Explain boost and check for charge-air leaks."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2050",
+      "chapter": "Chapter 33 — Hybrid and CVT Transmissions (support reading)",
+      "term": "CVT",
+      "definition": "Continuously Variable Transmission—changes ratios without fixed gears.",
+      "example": "Discuss belt/chain CVT operation and service cautions."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2050",
+      "chapter": "Chapter 33 — Hybrid and CVT Transmissions (support reading)",
+      "term": "Hybrid",
+      "definition": "Vehicle using both an internal combustion engine and electric drive.",
+      "example": "Identify high-voltage components and orange cables."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2050",
+      "chapter": "Chapter 33 — Hybrid and CVT Transmissions (support reading)",
+      "term": "Inverter",
+      "definition": "Converts DC battery power to AC for the motor (and back).",
+      "example": "Recognize inverter cooling and safety considerations."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2050",
+      "chapter": "Chapter 33 — Hybrid and CVT Transmissions (support reading)",
+      "term": "Regenerative braking",
+      "definition": "Using the motor to slow the vehicle and recharge the battery.",
+      "example": "Explain why brake feel can differ on hybrids."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2050",
+      "chapter": "Chapter 75 — Alternative Fuel Systems",
+      "term": "CNG",
+      "definition": "Compressed Natural Gas fuel system.",
+      "example": "Identify high-pressure tanks and required safety steps."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2050",
+      "chapter": "Chapter 75 — Alternative Fuel Systems",
+      "term": "Flex-fuel",
+      "definition": "Vehicle that can run on gasoline and ethanol blends.",
+      "example": "Confirm ethanol content if drivability issues occur."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2050",
+      "chapter": "Chapter 75 — Alternative Fuel Systems",
+      "term": "Fuel storage safety",
+      "definition": "Rules and procedures for safe fuel containment.",
+      "example": "Use correct ventilation and avoid ignition sources during service."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2050",
+      "chapter": "Chapter 75 — Alternative Fuel Systems",
+      "term": "LPG/Propane",
+      "definition": "Liquefied petroleum gas fuel system.",
+      "example": "Know shutoff valves and leak-check procedures."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2060",
+      "chapter": "Chapter 69 — Ignition Systems",
+      "term": "Coil-on-plug (COP)",
+      "definition": "Ignition coil mounted on each spark plug.",
+      "example": "Swap coils to confirm a coil-related misfire."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2060",
+      "chapter": "Chapter 69 — Ignition Systems",
+      "term": "Misfire",
+      "definition": "A cylinder that is not burning properly.",
+      "example": "Use scan tool misfire counters and confirm with tests."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2060",
+      "chapter": "Chapter 69 — Ignition Systems",
+      "term": "Secondary ignition",
+      "definition": "High-voltage side of the ignition system.",
+      "example": "Look for arcing marks on coils and boots."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2060",
+      "chapter": "Chapter 69 — Ignition Systems",
+      "term": "Spark plug gap",
+      "definition": "Distance the spark must jump at the plug.",
+      "example": "Set or verify gap where applicable before installation."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2060",
+      "chapter": "Chapter 69 — Ignition Systems",
+      "term": "Spark timing",
+      "definition": "When the spark occurs relative to piston position.",
+      "example": "Use scan data to check timing changes under load."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2070",
+      "chapter": "Chapter 73 — Emissions Control Systems",
+      "term": "Catalytic converter",
+      "definition": "Device that reduces harmful exhaust gases.",
+      "example": "A restricted converter can cause loss of power and codes."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2070",
+      "chapter": "Chapter 73 — Emissions Control Systems",
+      "term": "EGR",
+      "definition": "Exhaust Gas Recirculation—reduces NOx by lowering combustion temps.",
+      "example": "Stuck EGR can cause rough idle or pinging."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2070",
+      "chapter": "Chapter 73 — Emissions Control Systems",
+      "term": "Oxygen sensor",
+      "definition": "Measures oxygen in exhaust for fuel control feedback.",
+      "example": "A lazy O2 sensor can cause poor fuel economy."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2070",
+      "chapter": "Chapter 73 — Emissions Control Systems",
+      "term": "PCV",
+      "definition": "Positive Crankcase Ventilation—routes crankcase vapours back to intake.",
+      "example": "A clogged PCV can cause oil leaks or sludge."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2070",
+      "chapter": "Chapter 73 — Emissions Control Systems",
+      "term": "Readiness monitors",
+      "definition": "OBD tests that must complete before inspection.",
+      "example": "Drive cycle completes monitors after battery disconnect."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 56 — Electrical System Fundamentals",
+      "term": "Current (amperage)",
+      "definition": "Flow of electricity through a circuit.",
+      "example": "Check starter draw when diagnosing slow crank."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 56 — Electrical System Fundamentals",
+      "term": "Ground",
+      "definition": "Return path for current, usually the vehicle chassis.",
+      "example": "Clean a corroded ground to fix intermittent electrical faults."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 56 — Electrical System Fundamentals",
+      "term": "Resistance",
+      "definition": "Opposition to current flow.",
+      "example": "High resistance in a connection causes heat and voltage drop."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 56 — Electrical System Fundamentals",
+      "term": "Series vs parallel",
+      "definition": "How components are connected in a circuit.",
+      "example": "Identify why one bulb out can affect others (series) or not (parallel)."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 56 — Electrical System Fundamentals",
+      "term": "Voltage",
+      "definition": "Electrical pressure that pushes current.",
+      "example": "Measure battery voltage to confirm state of charge."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 57 — Electrical Components and Wiring Repair",
+      "term": "Connector",
+      "definition": "Plug that joins wiring harness sections.",
+      "example": "Inspect for bent pins or water intrusion."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 57 — Electrical Components and Wiring Repair",
+      "term": "Crimp",
+      "definition": "Compressing a terminal onto wire for a solid connection.",
+      "example": "Use a proper crimper instead of pliers."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 57 — Electrical Components and Wiring Repair",
+      "term": "Heat-shrink",
+      "definition": "Tubing that shrinks to seal and protect repairs.",
+      "example": "Seal a splice after repair to prevent corrosion."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 57 — Electrical Components and Wiring Repair",
+      "term": "Soldering",
+      "definition": "Joining wires with melted solder (where appropriate).",
+      "example": "Solder a repair if procedure requires it, then seal properly."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 57 — Electrical Components and Wiring Repair",
+      "term": "Wire gauge",
+      "definition": "Wire size (thickness) affecting current capacity.",
+      "example": "Use the correct gauge when repairing a harness."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 58 — Meter Usage and Circuit Diagnosis",
+      "term": "Back-probing",
+      "definition": "Testing a connector without damaging it.",
+      "example": "Probe from the back of the connector to read sensor voltage."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 58 — Meter Usage and Circuit Diagnosis",
+      "term": "Continuity",
+      "definition": "Whether a circuit path is unbroken.",
+      "example": "Confirm a wire is intact from switch to load."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 58 — Meter Usage and Circuit Diagnosis",
+      "term": "Load test",
+      "definition": "Testing a circuit/component under working conditions.",
+      "example": "Use a test light to confirm a circuit can carry current."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 58 — Meter Usage and Circuit Diagnosis",
+      "term": "Multimeter",
+      "definition": "Tool that measures voltage, resistance, and more.",
+      "example": "Check for battery voltage at a fuse."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 58 — Meter Usage and Circuit Diagnosis",
+      "term": "Voltage drop",
+      "definition": "Testing how much voltage is lost across a connection.",
+      "example": "Find a bad ground by measuring voltage drop while loaded."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 59 — Battery Systems",
+      "term": "Cold cranking amps (CCA)",
+      "definition": "Battery’s ability to crank in cold conditions.",
+      "example": "Compare measured capacity to rated CCA."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 59 — Battery Systems",
+      "term": "Parasitic draw",
+      "definition": "Electrical draw when the vehicle is off.",
+      "example": "Measure draw if a battery keeps going dead overnight."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 59 — Battery Systems",
+      "term": "State of charge",
+      "definition": "How full a battery is.",
+      "example": "Use a tester to confirm battery charge before diagnosis."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 59 — Battery Systems",
+      "term": "Sulfation",
+      "definition": "Crystal buildup reducing battery capacity.",
+      "example": "A neglected battery may fail load testing due to sulfation."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 60 — Starting Systems",
+      "term": "Cranking voltage",
+      "definition": "Battery voltage while the starter is operating.",
+      "example": "Low cranking voltage may indicate weak battery or high resistance."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 60 — Starting Systems",
+      "term": "Neutral safety switch",
+      "definition": "Prevents starting unless in Park/Neutral.",
+      "example": "No-crank in Drive suggests switch/adjustment issue."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 60 — Starting Systems",
+      "term": "Starter solenoid",
+      "definition": "Switch that engages the starter and connects high current.",
+      "example": "A click with no crank can indicate solenoid issues."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 60 — Starting Systems",
+      "term": "Voltage drop test",
+      "definition": "Test for excessive resistance in cables/connections.",
+      "example": "Measure drop across positive cable during cranking."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 61 — Charging Systems",
+      "term": "AC ripple",
+      "definition": "Unwanted alternating current in DC charging output.",
+      "example": "Use a meter/scope to check ripple if electronics act up."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 61 — Charging Systems",
+      "term": "Alternator",
+      "definition": "Generates electricity to run the vehicle and charge the battery.",
+      "example": "Diagnose low charging voltage with a charging test."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 61 — Charging Systems",
+      "term": "Charging voltage",
+      "definition": "System voltage while running (typical range varies).",
+      "example": "Confirm charging voltage is within spec at idle and with load."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 61 — Charging Systems",
+      "term": "Diode",
+      "definition": "Electrical one-way valve inside alternator rectifier.",
+      "example": "A bad diode can cause AC ripple and battery drain."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 61 — Charging Systems",
+      "term": "Regulator",
+      "definition": "Controls alternator output voltage.",
+      "example": "A failed regulator may overcharge and damage the battery."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 62 — Lighting System",
+      "term": "CAN-related lighting",
+      "definition": "Lighting controlled by modules and network messages.",
+      "example": "A scan tool may be needed to diagnose module-controlled lamps."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 62 — Lighting System",
+      "term": "Circuit protection",
+      "definition": "Fuses/relays that prevent damage from overloads.",
+      "example": "Replace a blown fuse only after finding the cause."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 62 — Lighting System",
+      "term": "Ground path",
+      "definition": "Return side of the circuit.",
+      "example": "A bad ground can make lights flicker."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 62 — Lighting System",
+      "term": "Relay",
+      "definition": "An electrically controlled switch.",
+      "example": "Use a relay to power headlights without overloading a switch."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2090",
+      "chapter": "Chapter 62 — Lighting System",
+      "term": "Voltage drop",
+      "definition": "Loss of voltage due to resistance.",
+      "example": "Dim lights can be caused by corroded connectors causing voltage drop."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2100",
+      "chapter": "Chapter 64 — Network Communications and Body Accessories",
+      "term": "Actuator",
+      "definition": "A device that moves/does work (motor, solenoid).",
+      "example": "Door lock actuator failing causes locks not to work."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2100",
+      "chapter": "Chapter 64 — Network Communications and Body Accessories",
+      "term": "CAN bus",
+      "definition": "A network that lets vehicle modules share data.",
+      "example": "Diagnose communication codes or module dropouts."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2100",
+      "chapter": "Chapter 64 — Network Communications and Body Accessories",
+      "term": "Data link connector (DLC)",
+      "definition": "Port where scan tools plug in.",
+      "example": "Connect a scan tool to read codes and live data."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2100",
+      "chapter": "Chapter 64 — Network Communications and Body Accessories",
+      "term": "Module",
+      "definition": "A computer that controls a system (BCM, PCM, etc.).",
+      "example": "A BCM controls body functions like locks and lighting."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2100",
+      "chapter": "Chapter 64 — Network Communications and Body Accessories",
+      "term": "Network topology",
+      "definition": "How modules are connected on the network.",
+      "example": "A short on the bus can take down multiple systems."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 47 — Braking System Fundamentals",
+      "term": "Brake pedal ratio",
+      "definition": "Leverage advantage built into pedal design.",
+      "example": "More pedal travel can mean more leverage."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 47 — Braking System Fundamentals",
+      "term": "Brake warning indicators",
+      "definition": "Lights/messages showing faults or wear.",
+      "example": "Investigate brake warning light before road testing."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 47 — Braking System Fundamentals",
+      "term": "Friction",
+      "definition": "Resistance that slows the vehicle when pads/shoes press on a surface.",
+      "example": "Brake pads clamp the rotor to slow the wheel."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 47 — Braking System Fundamentals",
+      "term": "Hydraulic system",
+      "definition": "Uses fluid pressure to move brake components.",
+      "example": "Brake pedal force becomes fluid pressure at the calipers."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 48 — Hydraulics and Power Brakes Theory",
+      "term": "ABS",
+      "definition": "Anti-lock braking system preventing wheel lockup.",
+      "example": "ABS pulses the brakes during hard stops on slippery roads."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 48 — Hydraulics and Power Brakes Theory",
+      "term": "Brake booster",
+      "definition": "Uses vacuum or other assist to reduce pedal effort.",
+      "example": "Hard pedal may indicate booster or vacuum issue."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 48 — Hydraulics and Power Brakes Theory",
+      "term": "Brake fluid",
+      "definition": "Hydraulic fluid designed for braking systems.",
+      "example": "Use the correct DOT rating and avoid contamination."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 48 — Hydraulics and Power Brakes Theory",
+      "term": "Master cylinder",
+      "definition": "Creates hydraulic pressure when you press the pedal.",
+      "example": "Internal leak can cause a sinking pedal."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 48 — Hydraulics and Power Brakes Theory",
+      "term": "Pascal’s law",
+      "definition": "Pressure in a confined fluid transmits equally in all directions.",
+      "example": "Small pedal force becomes larger force at calipers."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 49 — Servicing the Hydraulic System and Power Brakes",
+      "term": "Brake bleeding",
+      "definition": "Removing air from brake lines.",
+      "example": "Bleed after replacing a caliper or opening a brake line."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 49 — Servicing the Hydraulic System and Power Brakes",
+      "term": "Brake line",
+      "definition": "Metal tubing carrying brake fluid.",
+      "example": "Inspect for corrosion and leaks."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 49 — Servicing the Hydraulic System and Power Brakes",
+      "term": "Flexible hose",
+      "definition": "Rubber hose allowing movement at wheels.",
+      "example": "Collapsed hose can cause a dragging brake."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 49 — Servicing the Hydraulic System and Power Brakes",
+      "term": "Fluid flush",
+      "definition": "Replacing old brake fluid to remove moisture.",
+      "example": "Flush fluid to reduce corrosion and improve performance."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 49 — Servicing the Hydraulic System and Power Brakes",
+      "term": "Vacuum test",
+      "definition": "Testing vacuum supply to booster.",
+      "example": "Low vacuum can reduce brake assist."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 50 — Disc Brake System Theory",
+      "term": "ABS tone ring",
+      "definition": "Sensor target used to read wheel speed.",
+      "example": "Damaged ring can trigger ABS faults."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 50 — Disc Brake System Theory",
+      "term": "Caliper",
+      "definition": "Holds pads and squeezes rotor.",
+      "example": "A seized caliper can cause uneven pad wear."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 50 — Disc Brake System Theory",
+      "term": "Pad wear indicator",
+      "definition": "Device/sound showing pads are worn.",
+      "example": "Squeal can indicate wear indicator contact."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 50 — Disc Brake System Theory",
+      "term": "Rotor",
+      "definition": "Disc the pads clamp onto.",
+      "example": "Measure thickness and runout before resurfacing/replacing."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 50 — Disc Brake System Theory",
+      "term": "Runout",
+      "definition": "Side-to-side wobble of the rotor.",
+      "example": "Excessive runout can cause pedal pulsation."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 51 — Servicing the Disc Brake System",
+      "term": "Bed-in",
+      "definition": "Procedure to seat pads and rotors properly.",
+      "example": "Perform controlled stops after brake service."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 51 — Servicing the Disc Brake System",
+      "term": "Brake hardware",
+      "definition": "Clips/shims that support pads and reduce noise.",
+      "example": "Replace rusty hardware during pad service."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 51 — Servicing the Disc Brake System",
+      "term": "Brake lubricant",
+      "definition": "Special grease for slides and contact points.",
+      "example": "Lubricate slide pins to prevent sticking."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 51 — Servicing the Disc Brake System",
+      "term": "Torque sequence",
+      "definition": "Order and method of tightening fasteners.",
+      "example": "Torque caliper bracket bolts and wheel nuts correctly."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 52 — Drum Brake System Theory",
+      "term": "Drum diameter",
+      "definition": "Inside size of brake drum (has max spec).",
+      "example": "Measure drum to ensure it is within service limit."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 52 — Drum Brake System Theory",
+      "term": "Primary/secondary shoe",
+      "definition": "Two shoes with different roles in drum braking.",
+      "example": "Install shoes in the correct positions."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 52 — Drum Brake System Theory",
+      "term": "Self-adjuster",
+      "definition": "Mechanism that maintains correct shoe-to-drum clearance.",
+      "example": "A seized adjuster causes low pedal or poor braking."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 52 — Drum Brake System Theory",
+      "term": "Wheel cylinder",
+      "definition": "Hydraulic cylinder pushing shoes outward.",
+      "example": "Leak at wheel cylinder contaminates shoes."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 53 — Servicing the Drum Brake System",
+      "term": "Adjustment",
+      "definition": "Setting shoe clearance for proper pedal feel.",
+      "example": "Adjust drums so there is slight drag then recheck."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 53 — Servicing the Drum Brake System",
+      "term": "Brake cleaner",
+      "definition": "Solvent for removing brake dust and grease.",
+      "example": "Clean backing plate and hardware safely with ventilation."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 53 — Servicing the Drum Brake System",
+      "term": "Hold-down hardware",
+      "definition": "Pins/springs holding shoes to backing plate.",
+      "example": "Install correctly to keep shoes aligned."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 53 — Servicing the Drum Brake System",
+      "term": "Return springs",
+      "definition": "Springs pulling shoes back after braking.",
+      "example": "Replace weak springs to prevent drag."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 55 — Electronic Brake Control Systems",
+      "term": "ABS module",
+      "definition": "Computer that controls ABS valves and pump.",
+      "example": "Scan for codes and perform actuator tests."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 55 — Electronic Brake Control Systems",
+      "term": "Hydraulic control unit (HCU)",
+      "definition": "ABS valve block/pump assembly.",
+      "example": "Bleeding may require scan tool to cycle valves."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 55 — Electronic Brake Control Systems",
+      "term": "Stability control",
+      "definition": "Helps prevent skids by braking individual wheels.",
+      "example": "System intervenes during sharp turns or slippery conditions."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 55 — Electronic Brake Control Systems",
+      "term": "Traction control",
+      "definition": "Limits wheel spin during acceleration.",
+      "example": "System brakes a spinning wheel to regain traction."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2110",
+      "chapter": "Chapter 55 — Electronic Brake Control Systems",
+      "term": "Wheel speed sensor",
+      "definition": "Sensor reading wheel speed for ABS/traction control.",
+      "example": "Dirty/damaged sensor can cause ABS light."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 34 — Manual Drivetrain Fundamentals (support reading)",
+      "term": "Differential",
+      "definition": "Allows wheels to turn at different speeds in a turn.",
+      "example": "Explains why inside wheel turns slower in corners."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 34 — Manual Drivetrain Fundamentals (support reading)",
+      "term": "Driveline",
+      "definition": "Components that send power from transmission to wheels.",
+      "example": "Driveshaft and differential transfer power to axles."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 34 — Manual Drivetrain Fundamentals (support reading)",
+      "term": "Final drive ratio",
+      "definition": "Gear ratio in the differential affecting torque/speed.",
+      "example": "Higher ratio increases torque but raises engine RPM at speed."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 34 — Manual Drivetrain Fundamentals (support reading)",
+      "term": "Universal joint (U-joint)",
+      "definition": "Joint allowing driveshaft angle changes.",
+      "example": "A worn U-joint can cause vibration on acceleration."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 38 — Driveshafts, Axles, and Final Drives",
+      "term": "Axle shaft",
+      "definition": "Shaft that transfers torque to the wheel.",
+      "example": "Inspect splines and seals during axle service."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 38 — Driveshafts, Axles, and Final Drives",
+      "term": "Backlash",
+      "definition": "Small clearance between meshing gears.",
+      "example": "Set backlash correctly to prevent noise and wear."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 38 — Driveshafts, Axles, and Final Drives",
+      "term": "CV joint",
+      "definition": "Constant velocity joint used on drive axles.",
+      "example": "A clicking turn noise may indicate a failing CV joint."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 38 — Driveshafts, Axles, and Final Drives",
+      "term": "Pinion gear",
+      "definition": "Gear that drives the ring gear in a differential.",
+      "example": "Improper pinion depth can cause gear noise."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 39 — Four-Wheel Drive and All-Wheel Drive Systems",
+      "term": "Centre differential",
+      "definition": "Allows front/rear speed difference (in many AWD systems).",
+      "example": "Explains why AWD can be used on dry pavement (system-dependent)."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 39 — Four-Wheel Drive and All-Wheel Drive Systems",
+      "term": "Driveline bind",
+      "definition": "Tension from mismatched wheel speeds in 4WD.",
+      "example": "Occurs if part-time 4WD used on dry pavement."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 39 — Four-Wheel Drive and All-Wheel Drive Systems",
+      "term": "Locking hub",
+      "definition": "Mechanism engaging front wheels to axle (some 4WD).",
+      "example": "Diagnose a 4WD engagement complaint due to hub failure."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2130",
+      "chapter": "Chapter 39 — Four-Wheel Drive and All-Wheel Drive Systems",
+      "term": "Transfer case",
+      "definition": "Device splitting power to front and rear axles.",
+      "example": "Engage 4WD and confirm transfer case operation."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 31 — Servicing Automatic Transmissions: Transaxles",
+      "term": "ATF",
+      "definition": "Automatic Transmission Fluid designed for specific transmissions.",
+      "example": "Use the exact ATF spec listed in service info."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 31 — Servicing Automatic Transmissions: Transaxles",
+      "term": "Line pressure",
+      "definition": "Hydraulic pressure used to apply clutches/bands.",
+      "example": "Low line pressure can cause slipping."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 31 — Servicing Automatic Transmissions: Transaxles",
+      "term": "Shift solenoid",
+      "definition": "Electromagnetic valve controlling hydraulic flow.",
+      "example": "A faulty solenoid can cause harsh or missing shifts."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 31 — Servicing Automatic Transmissions: Transaxles",
+      "term": "Transaxle",
+      "definition": "Transmission and differential combined in one unit.",
+      "example": "Common in front-wheel-drive vehicles."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 31 — Servicing Automatic Transmissions: Transaxles",
+      "term": "Valve body",
+      "definition": "Hydraulic control centre of an automatic transmission.",
+      "example": "Debris can cause sticky valves and shift issues."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 35 — Clutch Systems",
+      "term": "Clutch disc",
+      "definition": "Friction disc connecting engine to transmission.",
+      "example": "A worn disc can slip under acceleration."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 35 — Clutch Systems",
+      "term": "Hydraulic clutch",
+      "definition": "Clutch system using fluid pressure.",
+      "example": "Bleed clutch hydraulics if pedal feel is spongy."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 35 — Clutch Systems",
+      "term": "Pressure plate",
+      "definition": "Clamp that holds the disc to the flywheel.",
+      "example": "Weak springs can cause slipping."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 35 — Clutch Systems",
+      "term": "Release bearing",
+      "definition": "Bearing that disengages the clutch when pedal is pressed.",
+      "example": "A noisy bearing may whine when clutch pedal is pressed."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 36 — Servicing Manual Transmissions: Transaxles",
+      "term": "Gear oil",
+      "definition": "Lubricant for manual transmission/differential.",
+      "example": "Use correct viscosity and spec to prevent wear."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 36 — Servicing Manual Transmissions: Transaxles",
+      "term": "Shift linkage",
+      "definition": "Mechanism connecting shifter to transmission.",
+      "example": "Misadjustment can cause hard-to-find gears."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 36 — Servicing Manual Transmissions: Transaxles",
+      "term": "Synchronizer",
+      "definition": "Helps match gear speeds for smooth shifting.",
+      "example": "Worn synchros cause gear grind."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2140",
+      "chapter": "Chapter 36 — Servicing Manual Transmissions: Transaxles",
+      "term": "Transaxle service",
+      "definition": "Inspection/fluid service on combined unit.",
+      "example": "Check for leaks, fluid condition, and correct refill level."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 40 — Wheels and Tires Theory (support reading)",
+      "term": "Load index",
+      "definition": "Number showing how much weight a tyre can carry.",
+      "example": "Choose correct load rating for vehicle."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 40 — Wheels and Tires Theory (support reading)",
+      "term": "Speed rating",
+      "definition": "Letter rating for maximum safe tyre speed.",
+      "example": "Match or exceed OEM speed rating when replacing tyres."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 40 — Wheels and Tires Theory (support reading)",
+      "term": "Tread pattern",
+      "definition": "Design affecting grip, noise, and water handling.",
+      "example": "Directional tread must be mounted correctly."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 40 — Wheels and Tires Theory (support reading)",
+      "term": "Tyre construction",
+      "definition": "How tyres are built (plies, belts, sidewalls).",
+      "example": "Understand why underinflation overheats tyres."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 44 — Suspension System Theory",
+      "term": "Ball joint",
+      "definition": "Pivot joint allowing steering/suspension movement.",
+      "example": "Loose joint can cause clunk and uneven tyre wear."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 44 — Suspension System Theory",
+      "term": "Bushing",
+      "definition": "Rubber/urethane part that reduces vibration and allows movement.",
+      "example": "Cracked bushings cause noise and alignment changes."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 44 — Suspension System Theory",
+      "term": "Damping",
+      "definition": "Controlling spring movement using shocks/struts.",
+      "example": "Worn shocks cause bouncing and longer stopping distance."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 44 — Suspension System Theory",
+      "term": "MacPherson strut",
+      "definition": "Common suspension design combining strut and spring.",
+      "example": "Found in many front suspensions."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 44 — Suspension System Theory",
+      "term": "Spring rate",
+      "definition": "How stiff a spring is.",
+      "example": "Higher rate reduces body roll but may ride harsher."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 45 — Servicing the Suspension System",
+      "term": "Ride height",
+      "definition": "Vehicle height relative to spec.",
+      "example": "Measure ride height when diagnosing sagging springs."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 45 — Servicing the Suspension System",
+      "term": "Serviceability check",
+      "definition": "Inspection to decide if parts can stay in use.",
+      "example": "Check for play in joints and torn boots."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 45 — Servicing the Suspension System",
+      "term": "Shock absorber",
+      "definition": "Controls suspension motion.",
+      "example": "Replace leaking shocks and recheck handling."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2150",
+      "chapter": "Chapter 45 — Servicing the Suspension System",
+      "term": "Torque-to-spec",
+      "definition": "Tighten fasteners to required values.",
+      "example": "Torque control arm bolts with vehicle at ride height (if required)."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 42 — Steering System Theory",
+      "term": "Caster",
+      "definition": "Steering pivot angle affecting stability and return-to-centre.",
+      "example": "Low caster can make vehicle wander."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 42 — Steering System Theory",
+      "term": "EPS",
+      "definition": "Electric Power Steering using an electric motor for assist.",
+      "example": "Scan for EPS codes during a steering complaint."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 42 — Steering System Theory",
+      "term": "Power steering",
+      "definition": "Assist system to reduce steering effort.",
+      "example": "Check fluid or EPS faults if steering is heavy."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 42 — Steering System Theory",
+      "term": "Rack-and-pinion",
+      "definition": "Common steering gear converting wheel turn to tie-rod motion.",
+      "example": "Diagnose play by checking inner/outer tie rods."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 42 — Steering System Theory",
+      "term": "Toe",
+      "definition": "Wheel alignment angle showing in/out direction of tyres.",
+      "example": "Incorrect toe causes rapid tyre wear."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 43 — Servicing the Steering System",
+      "term": "Fluid leak",
+      "definition": "Loss of power steering fluid from hoses/rack.",
+      "example": "Identify leak source before replacing parts."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 43 — Servicing the Steering System",
+      "term": "Steering angle sensor",
+      "definition": "Sensor reporting steering wheel position to modules.",
+      "example": "Recalibrate after alignment or steering repairs (vehicle-dependent)."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 43 — Servicing the Steering System",
+      "term": "Steering play",
+      "definition": "Excess movement before wheels respond.",
+      "example": "Check for worn joints, rack, or column issues."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 43 — Servicing the Steering System",
+      "term": "Tie rod",
+      "definition": "Link connecting steering rack to the wheel knuckle.",
+      "example": "Replace worn tie rod ends and align vehicle."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 46 — Wheel Alignment",
+      "term": "Alignment rack",
+      "definition": "Machine used to measure and adjust alignment angles.",
+      "example": "Use targets/sensors to read angles and set to spec."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 46 — Wheel Alignment",
+      "term": "Camber",
+      "definition": "In/out tilt of the wheel when viewed from front.",
+      "example": "Negative camber can improve cornering but increases inner wear."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 46 — Wheel Alignment",
+      "term": "Caster",
+      "definition": "Steering pivot angle viewed from side.",
+      "example": "Higher caster improves straight-line stability."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 46 — Wheel Alignment",
+      "term": "Thrust angle",
+      "definition": "Direction rear wheels push compared to vehicle centreline.",
+      "example": "A crooked steering wheel can be thrust angle related."
+    },
+    {
+      "level": 2000,
+      "credit": "MEC2160",
+      "chapter": "Chapter 46 — Wheel Alignment",
+      "term": "Toe",
+      "definition": "Direction tyres point relative to centreline.",
+      "example": "Set toe accurately; it most affects tyre wear."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3050",
+      "chapter": "Chapter 22 — Engine Removal and Replacement",
+      "term": "Engine hoist",
+      "definition": "A lifting device used to safely remove or install an engine.",
+      "example": "Set lift points and use a leveller to clear the core support."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3050",
+      "chapter": "Chapter 22 — Engine Removal and Replacement",
+      "term": "Engine mounts",
+      "definition": "Rubber/metal supports that hold the engine in place.",
+      "example": "Inspect mounts for cracks during an engine swap."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3050",
+      "chapter": "Chapter 22 — Engine Removal and Replacement",
+      "term": "Initial run-in",
+      "definition": "Careful first run to confirm systems and avoid damage.",
+      "example": "Monitor oil pressure, coolant temp, and unusual noises after install."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3050",
+      "chapter": "Chapter 22 — Engine Removal and Replacement",
+      "term": "Load leveller",
+      "definition": "Tool that changes engine angle while lifting.",
+      "example": "Tilt the engine to clear the transmission bellhousing."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3050",
+      "chapter": "Chapter 22 — Engine Removal and Replacement",
+      "term": "Pre-start checklist",
+      "definition": "A final set of checks before first start.",
+      "example": "Verify fluids, connectors, grounds, and fuel leaks before starting."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3050",
+      "chapter": "Chapter 22 — Engine Removal and Replacement",
+      "term": "Torque-to-yield (TTY)",
+      "definition": "Fasteners designed to stretch once to achieve clamping force.",
+      "example": "Replace TTY head bolts instead of reusing them."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3060",
+      "chapter": "Chapter 23 — Cylinder Head Components and Service",
+      "term": "Crack inspection",
+      "definition": "Checking for cracks in metal parts.",
+      "example": "Use dye penetrant or pressure testing on a suspected cracked head."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3060",
+      "chapter": "Chapter 23 — Cylinder Head Components and Service",
+      "term": "Valve clearance",
+      "definition": "Gap ensuring valves fully close (design-dependent).",
+      "example": "Adjust lash where applicable after service."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3060",
+      "chapter": "Chapter 23 — Cylinder Head Components and Service",
+      "term": "Valve guide",
+      "definition": "A sleeve that keeps the valve moving straight.",
+      "example": "Worn guides can cause oil burning and smoke."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3060",
+      "chapter": "Chapter 23 — Cylinder Head Components and Service",
+      "term": "Valve seat",
+      "definition": "The surface the valve seals against in the head.",
+      "example": "A burned seat causes low compression and misfire."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3060",
+      "chapter": "Chapter 23 — Cylinder Head Components and Service",
+      "term": "Valve train",
+      "definition": "Parts that open/close intake and exhaust valves.",
+      "example": "Identify rocker arms, pushrods, cam followers, and lifters."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3060",
+      "chapter": "Chapter 23 — Cylinder Head Components and Service",
+      "term": "Warping",
+      "definition": "Head surface becomes uneven due to heat.",
+      "example": "Check head flatness with a straightedge and feeler gauge."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 24 — Engine Block Components and Service",
+      "term": "Core plug (freeze plug)",
+      "definition": "Plug sealing casting holes in the block.",
+      "example": "Replace leaking core plugs during rebuild."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 24 — Engine Block Components and Service",
+      "term": "Cylinder bore",
+      "definition": "The inside diameter of a cylinder.",
+      "example": "Measure bore taper/out-of-round when diagnosing wear."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 24 — Engine Block Components and Service",
+      "term": "Deck surface",
+      "definition": "Top surface of the block where the head seals.",
+      "example": "Check flatness before head installation."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 24 — Engine Block Components and Service",
+      "term": "Main bearings",
+      "definition": "Bearings supporting the crankshaft in the block.",
+      "example": "Use Plastigage to check clearance during assembly."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 24 — Engine Block Components and Service",
+      "term": "Taper/out-of-round",
+      "definition": "Changes in bore shape from wear.",
+      "example": "Excessive taper can cause blow-by and low compression."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 25 — Engine Machining",
+      "term": "Balancing",
+      "definition": "Matching rotating parts to reduce vibration.",
+      "example": "Balance crank/rods/pistons during performance rebuild."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 25 — Engine Machining",
+      "term": "Boring",
+      "definition": "Machining a cylinder larger to correct wear.",
+      "example": "Overbore and fit oversized pistons."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 25 — Engine Machining",
+      "term": "Crank grinding",
+      "definition": "Machining crank journals to restore surfaces.",
+      "example": "Grind journals and use undersize bearings."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 25 — Engine Machining",
+      "term": "Honing",
+      "definition": "Finishing cylinder walls with a crosshatch pattern.",
+      "example": "Hone cylinders to seat rings properly after re-ring job."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 25 — Engine Machining",
+      "term": "Surface milling",
+      "definition": "Machining a flat sealing surface.",
+      "example": "Mill the block deck or head to restore flatness."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 26 — Engine Assembly",
+      "term": "Plastigage",
+      "definition": "Material used to measure bearing clearance.",
+      "example": "Check rod bearing clearance during assembly."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 26 — Engine Assembly",
+      "term": "Pre-lube",
+      "definition": "Lubrication applied before first start.",
+      "example": "Use assembly lube on bearings and cam lobes."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 26 — Engine Assembly",
+      "term": "Ring end gap",
+      "definition": "Gap between piston ring ends in the cylinder.",
+      "example": "File-fit rings to correct end gap for bore size."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 26 — Engine Assembly",
+      "term": "Timing marks",
+      "definition": "Reference marks used to set engine timing.",
+      "example": "Align cam/crank marks during timing chain install."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 26 — Engine Assembly",
+      "term": "Torque angle",
+      "definition": "Tightening by degrees after initial torque.",
+      "example": "Use an angle gauge for TTY fasteners."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3070",
+      "chapter": "Chapter 26 — Engine Assembly",
+      "term": "Torque sequence",
+      "definition": "Order and method for tightening fasteners.",
+      "example": "Tighten head bolts in sequence to prevent warping."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3080",
+      "chapter": "Chapter 74 — Electric, Hybrid, and Fuel Cell Electric Vehicles",
+      "term": "Battery management system (BMS)",
+      "definition": "Controls and monitors HV battery health and safety.",
+      "example": "A BMS fault may limit charging or power output."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3080",
+      "chapter": "Chapter 74 — Electric, Hybrid, and Fuel Cell Electric Vehicles",
+      "term": "DC-DC converter",
+      "definition": "Steps HV down to 12 V system charging.",
+      "example": "Diagnose a dead 12 V battery in an EV with DC-DC faults."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3080",
+      "chapter": "Chapter 74 — Electric, Hybrid, and Fuel Cell Electric Vehicles",
+      "term": "Fuel cell",
+      "definition": "Produces electricity from hydrogen and oxygen.",
+      "example": "Discuss why water and heat management matters in FCEVs."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3080",
+      "chapter": "Chapter 74 — Electric, Hybrid, and Fuel Cell Electric Vehicles",
+      "term": "High voltage (HV)",
+      "definition": "Electrical system voltage that can be dangerous (EV/Hybrid).",
+      "example": "Follow HV disable procedure before touching orange cables."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3080",
+      "chapter": "Chapter 74 — Electric, Hybrid, and Fuel Cell Electric Vehicles",
+      "term": "Insulation resistance",
+      "definition": "Measurement ensuring HV circuits are isolated from chassis.",
+      "example": "Use special tester procedures after HV repairs."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3080",
+      "chapter": "Chapter 74 — Electric, Hybrid, and Fuel Cell Electric Vehicles",
+      "term": "Inverter",
+      "definition": "Converts battery DC to AC for the motor (and back).",
+      "example": "A cooling issue can cause inverter derate or shutdown."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3080",
+      "chapter": "Chapter 74 — Electric, Hybrid, and Fuel Cell Electric Vehicles",
+      "term": "Service disconnect",
+      "definition": "A device that isolates the HV battery.",
+      "example": "Remove service plug before HV work (per manual)."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3090",
+      "chapter": "Chapter 63 — Computer Controlled Systems (support reading)",
+      "term": "Actuator",
+      "definition": "A device controlled by a module to do work.",
+      "example": "A purge valve opens to control fuel vapours."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3090",
+      "chapter": "Chapter 63 — Computer Controlled Systems (support reading)",
+      "term": "Closed loop",
+      "definition": "Fuel control using sensor feedback.",
+      "example": "O2 sensors help adjust fuel in closed loop."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3090",
+      "chapter": "Chapter 63 — Computer Controlled Systems (support reading)",
+      "term": "PCM/ECU",
+      "definition": "Main computer controlling engine and other systems.",
+      "example": "Read live data and codes with a scan tool."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3090",
+      "chapter": "Chapter 63 — Computer Controlled Systems (support reading)",
+      "term": "PID",
+      "definition": "A scan tool data item (parameter ID).",
+      "example": "View coolant temp PID to confirm sensor readings."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3090",
+      "chapter": "Chapter 63 — Computer Controlled Systems (support reading)",
+      "term": "Sensor",
+      "definition": "A device that measures and reports a condition.",
+      "example": "MAP sensor reports intake pressure to the PCM."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3090",
+      "chapter": "Chapter 72 — Engine Management and OBD Systems",
+      "term": "DTC",
+      "definition": "Diagnostic Trouble Code describing a fault.",
+      "example": "P0302 indicates a cylinder 2 misfire."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3090",
+      "chapter": "Chapter 72 — Engine Management and OBD Systems",
+      "term": "Freeze frame",
+      "definition": "Snapshot of operating conditions when a code set.",
+      "example": "Use freeze frame to see speed/load when fault occurred."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3090",
+      "chapter": "Chapter 72 — Engine Management and OBD Systems",
+      "term": "Mode $06",
+      "definition": "OBD test results for monitored components.",
+      "example": "Check catalytic efficiency test results without a code."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3090",
+      "chapter": "Chapter 72 — Engine Management and OBD Systems",
+      "term": "OBD-II",
+      "definition": "Standard system for monitoring and reporting faults.",
+      "example": "Plug into DLC to read DTCs."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3090",
+      "chapter": "Chapter 72 — Engine Management and OBD Systems",
+      "term": "Readiness monitor",
+      "definition": "OBD self-tests that must complete.",
+      "example": "After repairs, run drive cycle to set monitors."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3090",
+      "chapter": "Chapter 72 — Engine Management and OBD Systems",
+      "term": "Scan tool",
+      "definition": "Device that reads data/codes and commands tests.",
+      "example": "Command an EVAP purge test to confirm operation."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3100",
+      "chapter": "Chapter 65 — Safety, Entertainment, and Antitheft Systems",
+      "term": "ADAS",
+      "definition": "Driver-assist systems using cameras/radar.",
+      "example": "A windshield replacement may require camera calibration."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3100",
+      "chapter": "Chapter 65 — Safety, Entertainment, and Antitheft Systems",
+      "term": "Immobilizer",
+      "definition": "System preventing starting without the correct key.",
+      "example": "A key reprogramming issue can cause no-start."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3100",
+      "chapter": "Chapter 65 — Safety, Entertainment, and Antitheft Systems",
+      "term": "Module programming",
+      "definition": "Updating module software/settings.",
+      "example": "Some repairs require programming after module replacement."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3100",
+      "chapter": "Chapter 65 — Safety, Entertainment, and Antitheft Systems",
+      "term": "Pretensioner",
+      "definition": "Seatbelt device that tightens belt in a crash.",
+      "example": "A deployed pretensioner must be replaced."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3100",
+      "chapter": "Chapter 65 — Safety, Entertainment, and Antitheft Systems",
+      "term": "SRS",
+      "definition": "Supplemental Restraint System (airbags/pretensioners).",
+      "example": "Disable SRS before steering wheel airbag removal."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3100",
+      "chapter": "Chapter 65 — Safety, Entertainment, and Antitheft Systems",
+      "term": "Telematics",
+      "definition": "Vehicle communication system (often connected services).",
+      "example": "Diagnose battery drain caused by a telematics module staying awake."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 66 — Heating and A/C Fundamentals",
+      "term": "Compressor",
+      "definition": "Pressurizes refrigerant and moves it through the system.",
+      "example": "A noisy compressor may indicate internal failure."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 66 — Heating and A/C Fundamentals",
+      "term": "Condenser",
+      "definition": "Releases heat to outside air.",
+      "example": "Blocked condenser fins reduce A/C performance."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 66 — Heating and A/C Fundamentals",
+      "term": "Evaporator",
+      "definition": "Absorbs heat from cabin air.",
+      "example": "A leaking evaporator can cause low refrigerant and poor cooling."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 66 — Heating and A/C Fundamentals",
+      "term": "PAG oil",
+      "definition": "Lubricating oil used in many A/C compressors.",
+      "example": "Add correct amount and type when replacing compressor."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 66 — Heating and A/C Fundamentals",
+      "term": "Refrigerant",
+      "definition": "Fluid that changes state to move heat (e.g., R-134a, R-1234yf).",
+      "example": "Use correct refrigerant type and approved equipment."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 66 — Heating and A/C Fundamentals",
+      "term": "Refrigeration cycle",
+      "definition": "Process that moves heat using pressure/phase change.",
+      "example": "Low side/high side readings show cycle operation."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 67 — Servicing Heating and A/C Systems",
+      "term": "Leak test",
+      "definition": "Finding refrigerant leaks using dye/electronic/sniffer methods.",
+      "example": "Use UV dye to confirm a slow leak at an O-ring."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 67 — Servicing Heating and A/C Systems",
+      "term": "O-ring",
+      "definition": "Seal used in A/C line connections.",
+      "example": "Replace O-rings when lines are opened."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 67 — Servicing Heating and A/C Systems",
+      "term": "Recover/recycle/recharge (RRR)",
+      "definition": "Machine process to safely handle refrigerant.",
+      "example": "Recover refrigerant before opening any A/C line."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 67 — Servicing Heating and A/C Systems",
+      "term": "System charge",
+      "definition": "Exact amount of refrigerant required.",
+      "example": "Charge by weight to the spec on the underhood label."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 67 — Servicing Heating and A/C Systems",
+      "term": "Vacuum pump",
+      "definition": "Removes air/moisture from the system.",
+      "example": "Pull vacuum and verify it holds before recharge."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 68 — Climate Control Systems",
+      "term": "Actuator",
+      "definition": "Motor controlling doors in HVAC case.",
+      "example": "Calibrate actuators after battery disconnect on some vehicles."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 68 — Climate Control Systems",
+      "term": "Automatic climate control",
+      "definition": "System that maintains temperature using sensors and control logic.",
+      "example": "Sunload sensor changes blower output on sunny days."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 68 — Climate Control Systems",
+      "term": "Blend door",
+      "definition": "Door mixing hot and cold air to reach target temp.",
+      "example": "A stuck blend door causes hot air on one side."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 68 — Climate Control Systems",
+      "term": "Cabin air filter",
+      "definition": "Filter cleaning air entering the cabin.",
+      "example": "A plugged filter reduces airflow and fog clearing."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3110",
+      "chapter": "Chapter 68 — Climate Control Systems",
+      "term": "Mode door",
+      "definition": "Directs airflow to vents/defrost/floor.",
+      "example": "A failed actuator may prevent defrost operation."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 27 — Automatic Transmission Fundamentals",
+      "term": "Clutch pack",
+      "definition": "Friction plates used to lock parts of a gearset.",
+      "example": "Worn clutch packs can cause slipping shifts."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 27 — Automatic Transmission Fundamentals",
+      "term": "Line pressure",
+      "definition": "Hydraulic pressure used to apply clutches.",
+      "example": "Low pressure can cause slipping under load."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 27 — Automatic Transmission Fundamentals",
+      "term": "Planetary gearset",
+      "definition": "Gear system that provides multiple ratios.",
+      "example": "Explains how one set can create different gears."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 27 — Automatic Transmission Fundamentals",
+      "term": "Torque converter",
+      "definition": "Fluid coupling that transfers engine power to the transmission.",
+      "example": "Lock-up clutch engages to improve fuel economy at cruise."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 27 — Automatic Transmission Fundamentals",
+      "term": "Valve body",
+      "definition": "Hydraulic control unit for shifting.",
+      "example": "Contamination can cause shift complaints."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 28 — Hydraulic Fundamentals (Auto Trans)",
+      "term": "Accumulator",
+      "definition": "Device that smooths pressure changes.",
+      "example": "A failed accumulator can cause harsh shifts."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 28 — Hydraulic Fundamentals (Auto Trans)",
+      "term": "Hydraulic circuit",
+      "definition": "Path that moves fluid to do work.",
+      "example": "Valves route ATF to apply a clutch."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 28 — Hydraulic Fundamentals (Auto Trans)",
+      "term": "Orifice",
+      "definition": "Small opening controlling flow rate.",
+      "example": "Blocked orifice can delay shifts."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 28 — Hydraulic Fundamentals (Auto Trans)",
+      "term": "Servo",
+      "definition": "Hydraulic piston applying a band/clutch.",
+      "example": "A worn servo seal can cause slipping."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 29 — Hydraulically Controlled Transmissions",
+      "term": "Band",
+      "definition": "Friction band that holds a drum for certain gears.",
+      "example": "Band adjustment affects shift quality on some units."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 29 — Hydraulically Controlled Transmissions",
+      "term": "Governor",
+      "definition": "Device that changes shift timing based on speed (older designs).",
+      "example": "A stuck governor can cause late or no upshifts."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 29 — Hydraulically Controlled Transmissions",
+      "term": "Modulator",
+      "definition": "Uses engine vacuum to influence shifting (older designs).",
+      "example": "Vacuum leak affects shift timing."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 29 — Hydraulically Controlled Transmissions",
+      "term": "Shift valve",
+      "definition": "Valve directing fluid for a shift.",
+      "example": "Sticky shift valve causes incorrect gear or flare."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 30 — Electronically Controlled Transmissions",
+      "term": "Adaptation",
+      "definition": "Computer learns shift pressures over time.",
+      "example": "After repairs, reset and perform relearn drive procedure."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 30 — Electronically Controlled Transmissions",
+      "term": "CAN communication",
+      "definition": "Network data shared between modules.",
+      "example": "Communication faults can cause limp mode."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 30 — Electronically Controlled Transmissions",
+      "term": "Limp mode",
+      "definition": "Failsafe operation limiting gears to protect the transmission.",
+      "example": "Vehicle may start in 2nd/3rd gear after a fault."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 30 — Electronically Controlled Transmissions",
+      "term": "Solenoid",
+      "definition": "Electrically controlled valve.",
+      "example": "A failed solenoid can cause harsh or missing shifts."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3130",
+      "chapter": "Chapter 30 — Electronically Controlled Transmissions",
+      "term": "TCM",
+      "definition": "Transmission Control Module.",
+      "example": "Scan for transmission codes and view shift solenoid commands."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3140",
+      "chapter": "Chapter 32 — Rebuilding Automatic Transmissions/Transaxles",
+      "term": "End play",
+      "definition": "Axial movement of shafts/components.",
+      "example": "Measure end play and adjust with selective shims."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3140",
+      "chapter": "Chapter 32 — Rebuilding Automatic Transmissions/Transaxles",
+      "term": "Overhaul",
+      "definition": "Complete disassembly, inspection, and rebuild.",
+      "example": "Measure clearances and replace worn clutches during rebuild."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3140",
+      "chapter": "Chapter 32 — Rebuilding Automatic Transmissions/Transaxles",
+      "term": "Selective fit",
+      "definition": "Choosing parts/shims to achieve correct clearance.",
+      "example": "Use selective washers to set clutch pack clearance."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3140",
+      "chapter": "Chapter 32 — Rebuilding Automatic Transmissions/Transaxles",
+      "term": "Torque spec",
+      "definition": "Correct tightening value for fasteners.",
+      "example": "Torque case bolts to avoid leaks/warping."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3140",
+      "chapter": "Chapter 32 — Rebuilding Automatic Transmissions/Transaxles",
+      "term": "Valve body cleaning",
+      "definition": "Disassembling/cleaning to restore hydraulic function.",
+      "example": "Clean passages and check valves for sticking."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3140",
+      "chapter": "Chapter 37 — Rebuilding Manual Transmissions/Transaxles",
+      "term": "Bearing puller",
+      "definition": "Tool to remove bearings/gears safely.",
+      "example": "Use puller to remove a pressed-on bearing without damage."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3140",
+      "chapter": "Chapter 37 — Rebuilding Manual Transmissions/Transaxles",
+      "term": "Gear tooth wear",
+      "definition": "Damage patterns showing wear or failure.",
+      "example": "Pitting or chipping indicates replacement is needed."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3140",
+      "chapter": "Chapter 37 — Rebuilding Manual Transmissions/Transaxles",
+      "term": "Preload",
+      "definition": "Initial tightening/force on bearings.",
+      "example": "Set preload to prevent noise and premature wear."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3140",
+      "chapter": "Chapter 37 — Rebuilding Manual Transmissions/Transaxles",
+      "term": "Seal installer",
+      "definition": "Tool to install seals evenly.",
+      "example": "Install input shaft seal without deforming it."
+    },
+    {
+      "level": 3000,
+      "credit": "MEC3140",
+      "chapter": "Chapter 37 — Rebuilding Manual Transmissions/Transaxles",
+      "term": "Synchro ring",
+      "definition": "Friction ring helping match gear speeds.",
+      "example": "Worn ring causes gear grind."
+    }
+  ]
+}
