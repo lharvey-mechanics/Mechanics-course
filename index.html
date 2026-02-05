@@ -1,1 +1,67 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MEC Digital Word Wall</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <h1>MEC Digital Word Wall</h1>
+    <p class="subtitle">Search and filter key terms by level, credit, and chapter.</p>
 
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search terms, definitions, examples…" aria-label="Search" />
+      <select id="levelFilter" aria-label="Filter by level">
+        <option value="">All levels</option>
+        <option value="1000">1000 level</option>
+        <option value="2000">2000 level</option>
+        <option value="3000">3000 level</option>
+      </select>
+      <select id="creditFilter" aria-label="Filter by credit">
+        <option value="">All credits</option>
+      </select>
+      <select id="chapterFilter" aria-label="Filter by chapter">
+        <option value="">All chapters</option>
+      </select>
+      <button id="clearBtn" type="button">Clear</button>
+    </div>
+
+    <div class="nav">
+      <button class="tab active" data-tab="terms">Terms</button>
+      <button class="tab" data-tab="credits">Credits</button>
+      <button class="tab" data-tab="checklists">Checklists</button>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <section id="terms" class="panel active">
+    <div class="status" id="status"></div>
+    <div id="cards" class="cards"></div>
+  </section>
+
+  <section id="credits" class="panel">
+    <h2>Credits overview</h2>
+    <p class="hint">Placeholders you can edit later: overview + safety notes + success criteria.</p>
+    <div id="creditPages" class="credit-pages"></div>
+  </section>
+
+  <section id="checklists" class="panel">
+    <h2>Student checklists</h2>
+    <p class="hint">Paste your “Make a copy” links after you create per-credit Google Sheets.</p>
+    <div id="checklistLinks" class="checklist-links"></div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>Built for classroom reference. Hosted on GitHub Pages.</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
