@@ -12,22 +12,35 @@
     <h1>MEC2060 — Terms</h1>
     <p class="subtitle">2000 level • Search terms, definitions, and shop examples.</p>
     <p class="subtitle"><a href="index.html">Back to all credits</a></p>
+
     <div class="controls">
       <input id="search" type="search" placeholder="Search within this credit…" aria-label="Search within this credit" />
       <select id="chapterFilter" aria-label="Filter by chapter"></select>
     </div>
-    <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace with your Google Sheet “Make a copy” link">Make a copy</a></p>
+
+    <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace later with your Google Sheet “Make a copy” link">Make a copy</a></p>
     <p id="count" class="subtitle"></p>
   </div>
 </header>
+
 <main class="container">
-  <div id="cards" class="cards"></div>
+  <section class="panel">
+    <h2>Credit overview</h2>
+    <p class="subtitle">Add a short student-friendly overview here (what this credit covers, key safety notes, and what success looks like).</p>
+  </section>
+
+  <section class="panel">
+    <h2>Key terms</h2>
+    <div id="cards" class="cards"></div>
+  </section>
 </main>
+
 <footer class="site-footer">
   <div class="container">
     <p>Built for classroom reference. Hosted on GitHub Pages.</p>
   </div>
 </footer>
+
 <script src="credit.js"></script>
 </body>
 </html>

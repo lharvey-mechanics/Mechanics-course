@@ -3,16 +3,23 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MEC3180 — Damage Repair 1</title>
+  <title>MEC3180 — MEC Digital Word Wall</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-credit="MEC3180">
 <header class="site-header">
   <div class="container">
-    <h1>MEC3180 — Damage Repair 1</h1>
-    <p class="subtitle">3000 level • Digital word wall page (pre-filled terms).</p>
+    <h1>MEC3180 — Terms</h1>
+    <p class="subtitle">3000 level • Search terms, definitions, and shop examples.</p>
     <p class="subtitle"><a href="index.html">Back to all credits</a></p>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search within this credit…" aria-label="Search within this credit" />
+      <select id="chapterFilter" aria-label="Filter by chapter"></select>
+    </div>
+
     <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace later with your Google Sheet “Make a copy” link">Make a copy</a></p>
+    <p id="count" class="subtitle"></p>
   </div>
 </header>
 
@@ -24,98 +31,7 @@
 
   <section class="panel">
     <h2>Key terms</h2>
-    <div class="cards">
-
-      <article class="card">
-        <h3>Metal finishing</h3>
-        <p class="def">Final shaping of metal so minimal filler is needed.</p>
-        <p class="example"><strong>In the shop:</strong> Using hammer and dolly to smooth a repaired area.</p>
-      </article>
-
-      <article class="card">
-        <h3>Pulling</h3>
-        <p class="def">Using tools to pull dents outward.</p>
-        <p class="example"><strong>In the shop:</strong> Using a stud welder and slide hammer on a dent.</p>
-      </article>
-
-      <article class="card">
-        <h3>Stud welder</h3>
-        <p class="def">Tool that welds small studs to pull damaged panels.</p>
-        <p class="example"><strong>In the shop:</strong> Pulling a quarter panel dent without backside access.</p>
-      </article>
-
-      <article class="card">
-        <h3>Slide hammer</h3>
-        <p class="def">Tool used to pull on studs or hooks.</p>
-        <p class="example"><strong>In the shop:</strong> Pulling a crease in controlled steps.</p>
-      </article>
-
-      <article class="card">
-        <h3>Hammer and dolly</h3>
-        <p class="def">Tools used together to move and smooth metal.</p>
-        <p class="example"><strong>In the shop:</strong> Planishing a dent to remove ripples.</p>
-      </article>
-
-      <article class="card">
-        <h3>Heat shrinking</h3>
-        <p class="def">Using heat to reduce stretched metal (when appropriate).</p>
-        <p class="example"><strong>In the shop:</strong> Shrinking an oil-can area carefully.</p>
-      </article>
-
-      <article class="card">
-        <h3>Panel beating</h3>
-        <p class="def">Shaping metal using controlled strikes and support.</p>
-        <p class="example"><strong>In the shop:</strong> Restoring a body line after a hit.</p>
-      </article>
-
-      <article class="card">
-        <h3>Body filler</h3>
-        <p class="def">Filler used to level small imperfections after metal work.</p>
-        <p class="example"><strong>In the shop:</strong> Applying thin filler after proper metal repair.</p>
-      </article>
-
-      <article class="card">
-        <h3>Featheredge</h3>
-        <p class="def">Tapering paint edges so repairs blend.</p>
-        <p class="example"><strong>In the shop:</strong> Sanding around a repair before primer.</p>
-      </article>
-
-      <article class="card">
-        <h3>Primer surfacer</h3>
-        <p class="def">Primer used to fill sanding scratches and minor lows.</p>
-        <p class="example"><strong>In the shop:</strong> Spraying surfacer before block sanding.</p>
-      </article>
-
-      <article class="card">
-        <h3>Block sanding</h3>
-        <p class="def">Using a block to keep surfaces flat.</p>
-        <p class="example"><strong>In the shop:</strong> Blocking primer to remove waves.</p>
-      </article>
-
-      <article class="card">
-        <h3>Panel alignment</h3>
-        <p class="def">Setting correct gaps and flushness of panels.</p>
-        <p class="example"><strong>In the shop:</strong> Adjusting door hinges to set even gaps.</p>
-      </article>
-
-      <article class="card">
-        <h3>Fastener torque</h3>
-        <p class="def">Tightening fasteners to specification.</p>
-        <p class="example"><strong>In the shop:</strong> Torqueing hinge bolts to spec.</p>
-      </article>
-
-      <article class="card">
-        <h3>Safety PPE</h3>
-        <p class="def">Personal protective equipment for repair work.</p>
-        <p class="example"><strong>In the shop:</strong> Eye protection and gloves during grinding and welding.</p>
-      </article>
-
-      <article class="card">
-        <h3>Clean-up and corrosion protection</h3>
-        <p class="def">Steps to protect bare metal and clean workspace.</p>
-        <p class="example"><strong>In the shop:</strong> Applying weld-through primer and seam sealer.</p>
-      </article>
-    </div>
+    <div id="cards" class="cards"></div>
   </section>
 </main>
 
@@ -124,5 +40,7 @@
     <p>Built for classroom reference. Hosted on GitHub Pages.</p>
   </div>
 </footer>
+
+<script src="credit.js"></script>
 </body>
 </html>

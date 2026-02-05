@@ -3,16 +3,23 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MEC2170 — Starting Systems</title>
+  <title>MEC2170 — MEC Digital Word Wall</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-credit="MEC2170">
 <header class="site-header">
   <div class="container">
-    <h1>MEC2170 — Starting Systems</h1>
-    <p class="subtitle">2000 level • Digital word wall page (pre-filled terms).</p>
+    <h1>MEC2170 — Terms</h1>
+    <p class="subtitle">2000 level • Search terms, definitions, and shop examples.</p>
     <p class="subtitle"><a href="index.html">Back to all credits</a></p>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search within this credit…" aria-label="Search within this credit" />
+      <select id="chapterFilter" aria-label="Filter by chapter"></select>
+    </div>
+
     <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace later with your Google Sheet “Make a copy” link">Make a copy</a></p>
+    <p id="count" class="subtitle"></p>
   </div>
 </header>
 
@@ -24,80 +31,7 @@
 
   <section class="panel">
     <h2>Key terms</h2>
-    <div class="cards">
-
-      <article class="card">
-        <h3>Starting system</h3>
-        <p class="def">The components that crank the engine (battery, starter, control circuit).</p>
-        <p class="example"><strong>In the shop:</strong> Tracing the start signal from ignition switch to starter.</p>
-      </article>
-
-      <article class="card">
-        <h3>Starter motor</h3>
-        <p class="def">Electric motor that turns the engine to start it.</p>
-        <p class="example"><strong>In the shop:</strong> Bench testing a starter for engagement and speed.</p>
-      </article>
-
-      <article class="card">
-        <h3>Solenoid</h3>
-        <p class="def">Electromagnetic switch that engages the starter and closes high-current contacts.</p>
-        <p class="example"><strong>In the shop:</strong> Checking solenoid click but no crank condition.</p>
-      </article>
-
-      <article class="card">
-        <h3>Starter relay</h3>
-        <p class="def">Low-current relay controlling starter solenoid power.</p>
-        <p class="example"><strong>In the shop:</strong> Swapping relay with a known-good one for testing.</p>
-      </article>
-
-      <article class="card">
-        <h3>Control circuit</h3>
-        <p class="def">The low-current circuit that commands the starter.</p>
-        <p class="example"><strong>In the shop:</strong> Testing for start signal at the relay coil.</p>
-      </article>
-
-      <article class="card">
-        <h3>High-current circuit</h3>
-        <p class="def">The heavy wiring carrying starter current.</p>
-        <p class="example"><strong>In the shop:</strong> Checking battery cable condition and tightness.</p>
-      </article>
-
-      <article class="card">
-        <h3>Voltage drop (cranking)</h3>
-        <p class="def">Measured voltage loss during starting load.</p>
-        <p class="example"><strong>In the shop:</strong> Finding a corroded positive cable causing slow crank.</p>
-      </article>
-
-      <article class="card">
-        <h3>Current draw</h3>
-        <p class="def">How many amps the starter uses while cranking.</p>
-        <p class="example"><strong>In the shop:</strong> Using an amp clamp to compare draw to spec.</p>
-      </article>
-
-      <article class="card">
-        <h3>No-crank</h3>
-        <p class="def">Starter does not rotate the engine.</p>
-        <p class="example"><strong>In the shop:</strong> Diagnosing a no-crank with relay and signal checks.</p>
-      </article>
-
-      <article class="card">
-        <h3>Slow crank</h3>
-        <p class="def">Starter turns engine too slowly to start.</p>
-        <p class="example"><strong>In the shop:</strong> Identifying weak battery or high resistance in cables.</p>
-      </article>
-
-      <article class="card">
-        <h3>Neutral safety switch</h3>
-        <p class="def">Prevents starting unless in Park/Neutral (or clutch depressed).</p>
-        <p class="example"><strong>In the shop:</strong> Testing switch when vehicle starts only sometimes.</p>
-      </article>
-
-      <article class="card">
-        <h3>Pinion engagement</h3>
-        <p class="def">Starter gear meshes with flywheel/flexplate.</p>
-        <p class="example"><strong>In the shop:</strong> Grinding noise due to worn teeth or misalignment.</p>
-      </article>
-    </div>
+    <div id="cards" class="cards"></div>
   </section>
 </main>
 
@@ -106,5 +40,7 @@
     <p>Built for classroom reference. Hosted on GitHub Pages.</p>
   </div>
 </footer>
+
+<script src="credit.js"></script>
 </body>
 </html>

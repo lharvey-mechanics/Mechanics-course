@@ -3,16 +3,23 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MEC2190 — Lighting Systems</title>
+  <title>MEC2190 — MEC Digital Word Wall</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-credit="MEC2190">
 <header class="site-header">
   <div class="container">
-    <h1>MEC2190 — Lighting Systems</h1>
-    <p class="subtitle">2000 level • Digital word wall page (pre-filled terms).</p>
+    <h1>MEC2190 — Terms</h1>
+    <p class="subtitle">2000 level • Search terms, definitions, and shop examples.</p>
     <p class="subtitle"><a href="index.html">Back to all credits</a></p>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search within this credit…" aria-label="Search within this credit" />
+      <select id="chapterFilter" aria-label="Filter by chapter"></select>
+    </div>
+
     <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace later with your Google Sheet “Make a copy” link">Make a copy</a></p>
+    <p id="count" class="subtitle"></p>
   </div>
 </header>
 
@@ -24,80 +31,7 @@
 
   <section class="panel">
     <h2>Key terms</h2>
-    <div class="cards">
-
-      <article class="card">
-        <h3>Lighting circuit</h3>
-        <p class="def">Wiring and components that power vehicle lights.</p>
-        <p class="example"><strong>In the shop:</strong> Tracing a headlight circuit from fuse to bulb.</p>
-      </article>
-
-      <article class="card">
-        <h3>Switch</h3>
-        <p class="def">Device that opens/closes a circuit.</p>
-        <p class="example"><strong>In the shop:</strong> Testing a brake light switch at the pedal.</p>
-      </article>
-
-      <article class="card">
-        <h3>Fuse rating</h3>
-        <p class="def">The amp value a fuse is designed to protect.</p>
-        <p class="example"><strong>In the shop:</strong> Replacing a 10 A fuse with the correct 10 A, not larger.</p>
-      </article>
-
-      <article class="card">
-        <h3>Load</h3>
-        <p class="def">The component using electricity (bulb, motor, module).</p>
-        <p class="example"><strong>In the shop:</strong> A headlamp bulb is a load.</p>
-      </article>
-
-      <article class="card">
-        <h3>Bulb types</h3>
-        <p class="def">Different lamp technologies (halogen, HID, LED).</p>
-        <p class="example"><strong>In the shop:</strong> Identifying LED headlamp assembly vs halogen bulb.</p>
-      </article>
-
-      <article class="card">
-        <h3>Polarity</h3>
-        <p class="def">Positive and negative orientation in DC circuits.</p>
-        <p class="example"><strong>In the shop:</strong> Correct polarity for LED installations.</p>
-      </article>
-
-      <article class="card">
-        <h3>Voltage drop (lighting)</h3>
-        <p class="def">Loss of voltage that reduces brightness.</p>
-        <p class="example"><strong>In the shop:</strong> Dim headlight due to corrosion at a connector.</p>
-      </article>
-
-      <article class="card">
-        <h3>Connector</h3>
-        <p class="def">Plug connection between harness and component.</p>
-        <p class="example"><strong>In the shop:</strong> Inspecting for spread terminals or moisture.</p>
-      </article>
-
-      <article class="card">
-        <h3>Ground path</h3>
-        <p class="def">Return route to battery negative.</p>
-        <p class="example"><strong>In the shop:</strong> Repairing a corroded ground point near tail lamp.</p>
-      </article>
-
-      <article class="card">
-        <h3>Circuit protection</h3>
-        <p class="def">Devices that prevent damage (fuses, breakers).</p>
-        <p class="example"><strong>In the shop:</strong> Resettable breaker on power windows circuit.</p>
-      </article>
-
-      <article class="card">
-        <h3>Current path</h3>
-        <p class="def">The complete route electricity follows through a circuit.</p>
-        <p class="example"><strong>In the shop:</strong> Explaining why an open stops current flow.</p>
-      </article>
-
-      <article class="card">
-        <h3>Diagnosis by symptom</h3>
-        <p class="def">Using what you observe to guide tests.</p>
-        <p class="example"><strong>In the shop:</strong> One headlight out suggests bulb or branch issue.</p>
-      </article>
-    </div>
+    <div id="cards" class="cards"></div>
   </section>
 </main>
 
@@ -106,5 +40,7 @@
     <p>Built for classroom reference. Hosted on GitHub Pages.</p>
   </div>
 </footer>
+
+<script src="credit.js"></script>
 </body>
 </html>

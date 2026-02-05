@@ -3,16 +3,23 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MEC2200 — Electrical Components and Wiring Repair</title>
+  <title>MEC2200 — MEC Digital Word Wall</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-credit="MEC2200">
 <header class="site-header">
   <div class="container">
-    <h1>MEC2200 — Electrical Components and Wiring Repair</h1>
-    <p class="subtitle">2000 level • Digital word wall page (pre-filled terms).</p>
+    <h1>MEC2200 — Terms</h1>
+    <p class="subtitle">2000 level • Search terms, definitions, and shop examples.</p>
     <p class="subtitle"><a href="index.html">Back to all credits</a></p>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search within this credit…" aria-label="Search within this credit" />
+      <select id="chapterFilter" aria-label="Filter by chapter"></select>
+    </div>
+
     <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace later with your Google Sheet “Make a copy” link">Make a copy</a></p>
+    <p id="count" class="subtitle"></p>
   </div>
 </header>
 
@@ -24,80 +31,7 @@
 
   <section class="panel">
     <h2>Key terms</h2>
-    <div class="cards">
-
-      <article class="card">
-        <h3>Wiring diagram</h3>
-        <p class="def">A map showing circuits, connections, and component locations.</p>
-        <p class="example"><strong>In the shop:</strong> Using a diagram to find splice points.</p>
-      </article>
-
-      <article class="card">
-        <h3>Circuit tracing</h3>
-        <p class="def">Following a circuit step-by-step to locate a fault.</p>
-        <p class="example"><strong>In the shop:</strong> Checking power at fuse, then switch, then load.</p>
-      </article>
-
-      <article class="card">
-        <h3>Continuity test</h3>
-        <p class="def">Checking for an unbroken path in a wire or component.</p>
-        <p class="example"><strong>In the shop:</strong> Testing a wire from connector pin to pin.</p>
-      </article>
-
-      <article class="card">
-        <h3>Short to ground</h3>
-        <p class="def">Wire contacts ground when it should not.</p>
-        <p class="example"><strong>In the shop:</strong> Blowing a fuse immediately when a circuit is powered.</p>
-      </article>
-
-      <article class="card">
-        <h3>Short to power</h3>
-        <p class="def">Wire contacts a powered source incorrectly.</p>
-        <p class="example"><strong>In the shop:</strong> A component stays on even when switched off.</p>
-      </article>
-
-      <article class="card">
-        <h3>Open circuit</h3>
-        <p class="def">A break in the circuit that stops current flow.</p>
-        <p class="example"><strong>In the shop:</strong> Broken wire inside insulation causing intermittent open.</p>
-      </article>
-
-      <article class="card">
-        <h3>Back probing</h3>
-        <p class="def">Testing a connector from the rear without damaging it.</p>
-        <p class="example"><strong>In the shop:</strong> Measuring signal voltage at a sensor connector.</p>
-      </article>
-
-      <article class="card">
-        <h3>Terminal tension</h3>
-        <p class="def">How tightly a connector terminal grips the mating pin.</p>
-        <p class="example"><strong>In the shop:</strong> Loose terminal causing intermittent electrical issue.</p>
-      </article>
-
-      <article class="card">
-        <h3>Crimping</h3>
-        <p class="def">Joining wires using a crimp connector and tool.</p>
-        <p class="example"><strong>In the shop:</strong> Using butt splices with heat-shrink for harness repair.</p>
-      </article>
-
-      <article class="card">
-        <h3>Heat-shrink</h3>
-        <p class="def">Tubing that shrinks when heated to seal/insulate repairs.</p>
-        <p class="example"><strong>In the shop:</strong> Sealing a crimped connection to prevent corrosion.</p>
-      </article>
-
-      <article class="card">
-        <h3>Wire gauge</h3>
-        <p class="def">Wire thickness; affects current capacity.</p>
-        <p class="example"><strong>In the shop:</strong> Selecting correct gauge wire for an accessory circuit.</p>
-      </article>
-
-      <article class="card">
-        <h3>Strain relief</h3>
-        <p class="def">Preventing a repair from being pulled/bent repeatedly.</p>
-        <p class="example"><strong>In the shop:</strong> Securing harness so movement doesn’t stress the splice.</p>
-      </article>
-    </div>
+    <div id="cards" class="cards"></div>
   </section>
 </main>
 
@@ -106,5 +40,7 @@
     <p>Built for classroom reference. Hosted on GitHub Pages.</p>
   </div>
 </footer>
+
+<script src="credit.js"></script>
 </body>
 </html>

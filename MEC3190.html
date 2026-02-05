@@ -3,16 +3,23 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MEC3190 — Damage Repair 2</title>
+  <title>MEC3190 — MEC Digital Word Wall</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-credit="MEC3190">
 <header class="site-header">
   <div class="container">
-    <h1>MEC3190 — Damage Repair 2</h1>
-    <p class="subtitle">3000 level • Digital word wall page (pre-filled terms).</p>
+    <h1>MEC3190 — Terms</h1>
+    <p class="subtitle">3000 level • Search terms, definitions, and shop examples.</p>
     <p class="subtitle"><a href="index.html">Back to all credits</a></p>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search within this credit…" aria-label="Search within this credit" />
+      <select id="chapterFilter" aria-label="Filter by chapter"></select>
+    </div>
+
     <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace later with your Google Sheet “Make a copy” link">Make a copy</a></p>
+    <p id="count" class="subtitle"></p>
   </div>
 </header>
 
@@ -24,98 +31,7 @@
 
   <section class="panel">
     <h2>Key terms</h2>
-    <div class="cards">
-
-      <article class="card">
-        <h3>Sectioning procedure</h3>
-        <p class="def">Replacing a portion of a panel/structure per OEM rules.</p>
-        <p class="example"><strong>In the shop:</strong> Sectioning a quarter panel at approved joints.</p>
-      </article>
-
-      <article class="card">
-        <h3>Plug weld</h3>
-        <p class="def">Weld made in a hole to replace a spot weld location.</p>
-        <p class="example"><strong>In the shop:</strong> Plug welding along a flange after panel replacement.</p>
-      </article>
-
-      <article class="card">
-        <h3>MIG welding</h3>
-        <p class="def">Common welding method used for body repairs.</p>
-        <p class="example"><strong>In the shop:</strong> Setting machine parameters for sheet metal thickness.</p>
-      </article>
-
-      <article class="card">
-        <h3>Weld-through primer</h3>
-        <p class="def">Primer used where panels overlap to reduce corrosion.</p>
-        <p class="example"><strong>In the shop:</strong> Applying to flanges before welding.</p>
-      </article>
-
-      <article class="card">
-        <h3>Panel replacement</h3>
-        <p class="def">Removing a damaged panel and installing a new one.</p>
-        <p class="example"><strong>In the shop:</strong> Replacing a door shell or outer skin.</p>
-      </article>
-
-      <article class="card">
-        <h3>Structural straightening</h3>
-        <p class="def">Pulling/straightening structural parts using approved methods.</p>
-        <p class="example"><strong>In the shop:</strong> Using a frame rack to pull a rail to spec.</p>
-      </article>
-
-      <article class="card">
-        <h3>Measuring and verification</h3>
-        <p class="def">Confirming dimensions during and after repairs.</p>
-        <p class="example"><strong>In the shop:</strong> Re-checking diagonals after each pull.</p>
-      </article>
-
-      <article class="card">
-        <h3>Adhesive bonding</h3>
-        <p class="def">Using structural adhesives as specified by OEM.</p>
-        <p class="example"><strong>In the shop:</strong> Bonding a roof skin using approved adhesive.</p>
-      </article>
-
-      <article class="card">
-        <h3>Rivet bonding</h3>
-        <p class="def">Using rivets with adhesive, common on aluminium structures.</p>
-        <p class="example"><strong>In the shop:</strong> Replacing rivets per pattern and tool requirements.</p>
-      </article>
-
-      <article class="card">
-        <h3>Heat-affected zone</h3>
-        <p class="def">Area of metal changed by heat; can weaken high-strength steels.</p>
-        <p class="example"><strong>In the shop:</strong> Avoiding excessive heat on UHSS parts.</p>
-      </article>
-
-      <article class="card">
-        <h3>UHSS</h3>
-        <p class="def">Ultra-high-strength steel used in modern vehicles.</p>
-        <p class="example"><strong>In the shop:</strong> Following OEM rules: replace, do not straighten.</p>
-      </article>
-
-      <article class="card">
-        <h3>Corrosion protection steps</h3>
-        <p class="def">Coatings, seam sealer, cavity wax after repair.</p>
-        <p class="example"><strong>In the shop:</strong> Applying cavity wax inside repaired rocker panel.</p>
-      </article>
-
-      <article class="card">
-        <h3>Fit and finish</h3>
-        <p class="def">Ensuring panels align and close correctly.</p>
-        <p class="example"><strong>In the shop:</strong> Checking door closes smoothly and gaps are even.</p>
-      </article>
-
-      <article class="card">
-        <h3>Quality control inspection</h3>
-        <p class="def">Final safety and workmanship checks.</p>
-        <p class="example"><strong>In the shop:</strong> Checking weld quality, fasteners, and rustproofing.</p>
-      </article>
-
-      <article class="card">
-        <h3>Documentation</h3>
-        <p class="def">Photos and notes to support repair decisions.</p>
-        <p class="example"><strong>In the shop:</strong> Recording section locations and weld counts.</p>
-      </article>
-    </div>
+    <div id="cards" class="cards"></div>
   </section>
 </main>
 
@@ -124,5 +40,7 @@
     <p>Built for classroom reference. Hosted on GitHub Pages.</p>
   </div>
 </footer>
+
+<script src="credit.js"></script>
 </body>
 </html>

@@ -3,16 +3,23 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MEC3210 — Plastic & Fibreglass</title>
+  <title>MEC3210 — MEC Digital Word Wall</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-credit="MEC3210">
 <header class="site-header">
   <div class="container">
-    <h1>MEC3210 — Plastic & Fibreglass</h1>
-    <p class="subtitle">3000 level • Digital word wall page (pre-filled terms).</p>
+    <h1>MEC3210 — Terms</h1>
+    <p class="subtitle">3000 level • Search terms, definitions, and shop examples.</p>
     <p class="subtitle"><a href="index.html">Back to all credits</a></p>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search within this credit…" aria-label="Search within this credit" />
+      <select id="chapterFilter" aria-label="Filter by chapter"></select>
+    </div>
+
     <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace later with your Google Sheet “Make a copy” link">Make a copy</a></p>
+    <p id="count" class="subtitle"></p>
   </div>
 </header>
 
@@ -24,98 +31,7 @@
 
   <section class="panel">
     <h2>Key terms</h2>
-    <div class="cards">
-
-      <article class="card">
-        <h3>Plastic identification</h3>
-        <p class="def">Determining plastic type for correct repair method.</p>
-        <p class="example"><strong>In the shop:</strong> Reading material codes on bumper cover (PP, TPO).</p>
-      </article>
-
-      <article class="card">
-        <h3>Thermoplastic</h3>
-        <p class="def">Plastic that can be reshaped with heat.</p>
-        <p class="example"><strong>In the shop:</strong> Heat reshaping a bumper cover carefully.</p>
-      </article>
-
-      <article class="card">
-        <h3>Thermoset</h3>
-        <p class="def">Plastic/composite that does not remelt once cured.</p>
-        <p class="example"><strong>In the shop:</strong> Fibreglass panel repair using resin.</p>
-      </article>
-
-      <article class="card">
-        <h3>Plastic welding</h3>
-        <p class="def">Joining plastic using heat and filler rod.</p>
-        <p class="example"><strong>In the shop:</strong> Welding a crack on a bumper cover.</p>
-      </article>
-
-      <article class="card">
-        <h3>Nitrogen plastic welder</h3>
-        <p class="def">Plastic welder that uses nitrogen to reduce oxidation.</p>
-        <p class="example"><strong>In the shop:</strong> Repairing TPO bumper with nitrogen welder.</p>
-      </article>
-
-      <article class="card">
-        <h3>Plastic adhesive repair</h3>
-        <p class="def">Using adhesives to repair cracks or breaks.</p>
-        <p class="example"><strong>In the shop:</strong> Bonding tabs with two-part plastic adhesive.</p>
-      </article>
-
-      <article class="card">
-        <h3>V-groove</h3>
-        <p class="def">A groove cut into a crack to allow strong repair fill.</p>
-        <p class="example"><strong>In the shop:</strong> Grinding a V-groove before welding or adhesive.</p>
-      </article>
-
-      <article class="card">
-        <h3>Reinforcement mesh</h3>
-        <p class="def">Material embedded to strengthen a plastic repair.</p>
-        <p class="example"><strong>In the shop:</strong> Adding mesh on backside of a repaired crack.</p>
-      </article>
-
-      <article class="card">
-        <h3>Fibreglass mat</h3>
-        <p class="def">Woven or chopped fibres used with resin for repairs.</p>
-        <p class="example"><strong>In the shop:</strong> Laying mat and resin to repair a fibreglass panel.</p>
-      </article>
-
-      <article class="card">
-        <h3>Resin and hardener</h3>
-        <p class="def">Materials that cure to create a strong composite.</p>
-        <p class="example"><strong>In the shop:</strong> Mixing correct ratio for proper cure.</p>
-      </article>
-
-      <article class="card">
-        <h3>Surface prep</h3>
-        <p class="def">Cleaning, sanding, and keying surfaces for bonding.</p>
-        <p class="example"><strong>In the shop:</strong> Using plastic cleaner and proper grit before repair.</p>
-      </article>
-
-      <article class="card">
-        <h3>Flex additive</h3>
-        <p class="def">Additive that helps coatings flex on plastic parts (system dependent).</p>
-        <p class="example"><strong>In the shop:</strong> Using recommended additive for flexible bumper parts.</p>
-      </article>
-
-      <article class="card">
-        <h3>Featheredge</h3>
-        <p class="def">Tapering edges so repair blends smoothly.</p>
-        <p class="example"><strong>In the shop:</strong> Sanding surrounding area before primer.</p>
-      </article>
-
-      <article class="card">
-        <h3>Primer for plastics</h3>
-        <p class="def">Primer designed to adhere to plastic substrates.</p>
-        <p class="example"><strong>In the shop:</strong> Applying adhesion promoter before primer.</p>
-      </article>
-
-      <article class="card">
-        <h3>Safety (dust/fumes)</h3>
-        <p class="def">Risks from sanding plastics/fibreglass and using resins.</p>
-        <p class="example"><strong>In the shop:</strong> Using respirator and ventilation during sanding.</p>
-      </article>
-    </div>
+    <div id="cards" class="cards"></div>
   </section>
 </main>
 
@@ -124,5 +40,7 @@
     <p>Built for classroom reference. Hosted on GitHub Pages.</p>
   </div>
 </footer>
+
+<script src="credit.js"></script>
 </body>
 </html>

@@ -3,16 +3,23 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MEC3010 — Buying & Selling Vehicles</title>
+  <title>MEC3010 — MEC Digital Word Wall</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-credit="MEC3010">
 <header class="site-header">
   <div class="container">
-    <h1>MEC3010 — Buying & Selling Vehicles</h1>
-    <p class="subtitle">3000 level • Digital word wall page (pre-filled terms).</p>
+    <h1>MEC3010 — Terms</h1>
+    <p class="subtitle">3000 level • Search terms, definitions, and shop examples.</p>
     <p class="subtitle"><a href="index.html">Back to all credits</a></p>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search within this credit…" aria-label="Search within this credit" />
+      <select id="chapterFilter" aria-label="Filter by chapter"></select>
+    </div>
+
     <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace later with your Google Sheet “Make a copy” link">Make a copy</a></p>
+    <p id="count" class="subtitle"></p>
   </div>
 </header>
 
@@ -24,98 +31,7 @@
 
   <section class="panel">
     <h2>Key terms</h2>
-    <div class="cards">
-
-      <article class="card">
-        <h3>Bill of sale</h3>
-        <p class="def">A document that records the sale and basic terms of a vehicle purchase.</p>
-        <p class="example"><strong>In the shop:</strong> Completing a bill of sale when a used vehicle changes owners.</p>
-      </article>
-
-      <article class="card">
-        <h3>Lien</h3>
-        <p class="def">A legal claim against a vehicle because of debt; it must be cleared before sale.</p>
-        <p class="example"><strong>In the shop:</strong> Checking if a vehicle has a lien before buying.</p>
-      </article>
-
-      <article class="card">
-        <h3>VIN</h3>
-        <p class="def">Vehicle Identification Number used to identify a specific vehicle.</p>
-        <p class="example"><strong>In the shop:</strong> Matching the VIN on the dash to paperwork.</p>
-      </article>
-
-      <article class="card">
-        <h3>Vehicle history report</h3>
-        <p class="def">A report showing recorded incidents, registrations, and sometimes service history.</p>
-        <p class="example"><strong>In the shop:</strong> Reviewing a history report to avoid accident write-offs.</p>
-      </article>
-
-      <article class="card">
-        <h3>Odometer disclosure</h3>
-        <p class="def">A statement of the vehicle’s mileage at time of sale.</p>
-        <p class="example"><strong>In the shop:</strong> Recording mileage accurately on sale documents.</p>
-      </article>
-
-      <article class="card">
-        <h3>Safety inspection</h3>
-        <p class="def">A check to confirm a vehicle meets minimum safety standards.</p>
-        <p class="example"><strong>In the shop:</strong> Using an inspection list to evaluate brakes/tires/steering.</p>
-      </article>
-
-      <article class="card">
-        <h3>Road test</h3>
-        <p class="def">A controlled drive to assess vehicle condition and symptoms.</p>
-        <p class="example"><strong>In the shop:</strong> Testing for vibration, pull, noises, and shift quality.</p>
-      </article>
-
-      <article class="card">
-        <h3>Pre-purchase inspection</h3>
-        <p class="def">A detailed inspection completed before purchasing a used vehicle.</p>
-        <p class="example"><strong>In the shop:</strong> Checking leaks, wear, codes, and maintenance needs.</p>
-      </article>
-
-      <article class="card">
-        <h3>Recall</h3>
-        <p class="def">A manufacturer repair program to correct a safety/quality issue.</p>
-        <p class="example"><strong>In the shop:</strong> Searching for open recalls on a used vehicle.</p>
-      </article>
-
-      <article class="card">
-        <h3>As-is sale</h3>
-        <p class="def">A sale where the buyer accepts current condition with limited/no warranty.</p>
-        <p class="example"><strong>In the shop:</strong> Explaining “as-is” risks to a buyer.</p>
-      </article>
-
-      <article class="card">
-        <h3>Warranty</h3>
-        <p class="def">A promise that certain repairs will be covered for a time/mileage.</p>
-        <p class="example"><strong>In the shop:</strong> Understanding what an aftermarket warranty includes.</p>
-      </article>
-
-      <article class="card">
-        <h3>Negotiation</h3>
-        <p class="def">The process of agreeing on a price and terms.</p>
-        <p class="example"><strong>In the shop:</strong> Using inspection findings to justify a lower offer.</p>
-      </article>
-
-      <article class="card">
-        <h3>Market value</h3>
-        <p class="def">Typical selling price for similar vehicles in your area.</p>
-        <p class="example"><strong>In the shop:</strong> Comparing listings to estimate a fair price.</p>
-      </article>
-
-      <article class="card">
-        <h3>Total cost of ownership</h3>
-        <p class="def">The full cost including fuel, repairs, insurance, and depreciation.</p>
-        <p class="example"><strong>In the shop:</strong> Choosing a vehicle based on expected maintenance costs.</p>
-      </article>
-
-      <article class="card">
-        <h3>Depreciation</h3>
-        <p class="def">Loss of vehicle value over time.</p>
-        <p class="example"><strong>In the shop:</strong> Explaining why newer vehicles drop value faster.</p>
-      </article>
-    </div>
+    <div id="cards" class="cards"></div>
   </section>
 </main>
 
@@ -124,5 +40,7 @@
     <p>Built for classroom reference. Hosted on GitHub Pages.</p>
   </div>
 </footer>
+
+<script src="credit.js"></script>
 </body>
 </html>

@@ -3,16 +3,23 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MEC3200 — Refinishing 2</title>
+  <title>MEC3200 — MEC Digital Word Wall</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-credit="MEC3200">
 <header class="site-header">
   <div class="container">
-    <h1>MEC3200 — Refinishing 2</h1>
-    <p class="subtitle">3000 level • Digital word wall page (pre-filled terms).</p>
+    <h1>MEC3200 — Terms</h1>
+    <p class="subtitle">3000 level • Search terms, definitions, and shop examples.</p>
     <p class="subtitle"><a href="index.html">Back to all credits</a></p>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search within this credit…" aria-label="Search within this credit" />
+      <select id="chapterFilter" aria-label="Filter by chapter"></select>
+    </div>
+
     <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace later with your Google Sheet “Make a copy” link">Make a copy</a></p>
+    <p id="count" class="subtitle"></p>
   </div>
 </header>
 
@@ -24,98 +31,7 @@
 
   <section class="panel">
     <h2>Key terms</h2>
-    <div class="cards">
-
-      <article class="card">
-        <h3>Refinish process</h3>
-        <p class="def">Steps from prep to basecoat and clearcoat.</p>
-        <p class="example"><strong>In the shop:</strong> Planning sanding, masking, priming, paint, polish.</p>
-      </article>
-
-      <article class="card">
-        <h3>Feather edge</h3>
-        <p class="def">Tapered transition from old finish to repaired area.</p>
-        <p class="example"><strong>In the shop:</strong> Preparing a blend area around a repair.</p>
-      </article>
-
-      <article class="card">
-        <h3>Primer surfacer</h3>
-        <p class="def">High-build primer that fills scratches and minor lows.</p>
-        <p class="example"><strong>In the shop:</strong> Spraying surfacer then block sanding.</p>
-      </article>
-
-      <article class="card">
-        <h3>Sealer</h3>
-        <p class="def">Coating that creates a uniform surface before colour.</p>
-        <p class="example"><strong>In the shop:</strong> Applying sealer to improve colour consistency.</p>
-      </article>
-
-      <article class="card">
-        <h3>Basecoat</h3>
-        <p class="def">Colour layer of a paint system.</p>
-        <p class="example"><strong>In the shop:</strong> Applying basecoat to matched colour.</p>
-      </article>
-
-      <article class="card">
-        <h3>Clearcoat</h3>
-        <p class="def">Protective top layer that provides gloss and UV protection.</p>
-        <p class="example"><strong>In the shop:</strong> Applying clear for durability and shine.</p>
-      </article>
-
-      <article class="card">
-        <h3>Blend panel</h3>
-        <p class="def">Adjacent panel sprayed to hide colour differences.</p>
-        <p class="example"><strong>In the shop:</strong> Blending into a door when painting a fender.</p>
-      </article>
-
-      <article class="card">
-        <h3>Colour match</h3>
-        <p class="def">Matching paint colour to the vehicle.</p>
-        <p class="example"><strong>In the shop:</strong> Using spray-out cards to confirm colour.</p>
-      </article>
-
-      <article class="card">
-        <h3>Spray-out card</h3>
-        <p class="def">Test panel sprayed to evaluate colour and flop.</p>
-        <p class="example"><strong>In the shop:</strong> Comparing spray-out to vehicle under different light.</p>
-      </article>
-
-      <article class="card">
-        <h3>Gun setup</h3>
-        <p class="def">Adjusting spray gun (pressure, fan, fluid) for proper pattern.</p>
-        <p class="example"><strong>In the shop:</strong> Setting fan pattern to avoid runs or dry spray.</p>
-      </article>
-
-      <article class="card">
-        <h3>Flash time</h3>
-        <p class="def">Wait time between coats for solvents to evaporate.</p>
-        <p class="example"><strong>In the shop:</strong> Allowing proper flash before next coat.</p>
-      </article>
-
-      <article class="card">
-        <h3>Orange peel</h3>
-        <p class="def">Bumpy texture in paint finish.</p>
-        <p class="example"><strong>In the shop:</strong> Adjusting gun setup and technique to reduce texture.</p>
-      </article>
-
-      <article class="card">
-        <h3>Run/sag</h3>
-        <p class="def">Paint that flows downward due to too much material.</p>
-        <p class="example"><strong>In the shop:</strong> Correcting technique and later denibbing/polishing.</p>
-      </article>
-
-      <article class="card">
-        <h3>Denib</h3>
-        <p class="def">Removing dust nibs or small defects from clearcoat.</p>
-        <p class="example"><strong>In the shop:</strong> Sanding a nib with fine grit before polishing.</p>
-      </article>
-
-      <article class="card">
-        <h3>Polishing</h3>
-        <p class="def">Restoring gloss after sanding defects.</p>
-        <p class="example"><strong>In the shop:</strong> Using compound and polish to restore shine.</p>
-      </article>
-    </div>
+    <div id="cards" class="cards"></div>
   </section>
 </main>
 
@@ -124,5 +40,7 @@
     <p>Built for classroom reference. Hosted on GitHub Pages.</p>
   </div>
 </footer>
+
+<script src="credit.js"></script>
 </body>
 </html>

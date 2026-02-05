@@ -3,16 +3,23 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MEC3150 — Wheel Alignment</title>
+  <title>MEC3150 — MEC Digital Word Wall</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-credit="MEC3150">
 <header class="site-header">
   <div class="container">
-    <h1>MEC3150 — Wheel Alignment</h1>
-    <p class="subtitle">3000 level • Digital word wall page (pre-filled terms).</p>
+    <h1>MEC3150 — Terms</h1>
+    <p class="subtitle">3000 level • Search terms, definitions, and shop examples.</p>
     <p class="subtitle"><a href="index.html">Back to all credits</a></p>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search within this credit…" aria-label="Search within this credit" />
+      <select id="chapterFilter" aria-label="Filter by chapter"></select>
+    </div>
+
     <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace later with your Google Sheet “Make a copy” link">Make a copy</a></p>
+    <p id="count" class="subtitle"></p>
   </div>
 </header>
 
@@ -24,98 +31,7 @@
 
   <section class="panel">
     <h2>Key terms</h2>
-    <div class="cards">
-
-      <article class="card">
-        <h3>Alignment</h3>
-        <p class="def">Adjusting wheel angles so the vehicle tracks straight and tires wear evenly.</p>
-        <p class="example"><strong>In the shop:</strong> Performing a 4-wheel alignment on an alignment rack.</p>
-      </article>
-
-      <article class="card">
-        <h3>Toe</h3>
-        <p class="def">Angle where tires point inward or outward when viewed from above.</p>
-        <p class="example"><strong>In the shop:</strong> Correcting toe to prevent rapid tire wear.</p>
-      </article>
-
-      <article class="card">
-        <h3>Camber</h3>
-        <p class="def">Inward/outward tilt of wheel when viewed from the front.</p>
-        <p class="example"><strong>In the shop:</strong> Diagnosing inside-edge wear from negative camber.</p>
-      </article>
-
-      <article class="card">
-        <h3>Caster</h3>
-        <p class="def">Steering axis angle that affects stability and return-to-centre.</p>
-        <p class="example"><strong>In the shop:</strong> Explaining why caster improves straight-line stability.</p>
-      </article>
-
-      <article class="card">
-        <h3>Thrust angle</h3>
-        <p class="def">Direction the rear wheels push the vehicle.</p>
-        <p class="example"><strong>In the shop:</strong> Correcting rear alignment to prevent steering off-centre.</p>
-      </article>
-
-      <article class="card">
-        <h3>Steering angle sensor</h3>
-        <p class="def">Sensor used by stability/assist systems; may need calibration.</p>
-        <p class="example"><strong>In the shop:</strong> Calibrating after alignment.</p>
-      </article>
-
-      <article class="card">
-        <h3>Ride height</h3>
-        <p class="def">Vehicle height that affects alignment geometry.</p>
-        <p class="example"><strong>In the shop:</strong> Checking ride height before measuring angles.</p>
-      </article>
-
-      <article class="card">
-        <h3>Setback</h3>
-        <p class="def">Difference in wheelbase side-to-side; can indicate damage.</p>
-        <p class="example"><strong>In the shop:</strong> Using measurement to suspect frame/suspension damage.</p>
-      </article>
-
-      <article class="card">
-        <h3>SAI (steering axis inclination)</h3>
-        <p class="def">Angle that helps diagnose bent parts.</p>
-        <p class="example"><strong>In the shop:</strong> Comparing SAI readings to identify a bent knuckle.</p>
-      </article>
-
-      <article class="card">
-        <h3>Included angle</h3>
-        <p class="def">Camber + SAI; used for diagnosis.</p>
-        <p class="example"><strong>In the shop:</strong> Using included angle to detect bent suspension.</p>
-      </article>
-
-      <article class="card">
-        <h3>Adjustment points</h3>
-        <p class="def">Hardware used to change angles (cams, eccentrics, shims).</p>
-        <p class="example"><strong>In the shop:</strong> Adjusting cam bolts on a strut suspension.</p>
-      </article>
-
-      <article class="card">
-        <h3>Alignment specifications</h3>
-        <p class="def">Factory target and allowable ranges.</p>
-        <p class="example"><strong>In the shop:</strong> Setting angles to OEM targets, not just “green.”</p>
-      </article>
-
-      <article class="card">
-        <h3>Tire wear diagnosis</h3>
-        <p class="def">Using wear patterns to identify alignment or suspension issues.</p>
-        <p class="example"><strong>In the shop:</strong> Feathering on tires suggesting toe error.</p>
-      </article>
-
-      <article class="card">
-        <h3>Pre-alignment inspection</h3>
-        <p class="def">Checking parts before aligning (ball joints, tie rods, bearings).</p>
-        <p class="example"><strong>In the shop:</strong> Rejecting alignment until worn tie rod is replaced.</p>
-      </article>
-
-      <article class="card">
-        <h3>Post-alignment road test</h3>
-        <p class="def">Confirming straight tracking and centred steering wheel.</p>
-        <p class="example"><strong>In the shop:</strong> Test drive and verify steering wheel position.</p>
-      </article>
-    </div>
+    <div id="cards" class="cards"></div>
   </section>
 </main>
 
@@ -124,5 +40,7 @@
     <p>Built for classroom reference. Hosted on GitHub Pages.</p>
   </div>
 </footer>
+
+<script src="credit.js"></script>
 </body>
 </html>

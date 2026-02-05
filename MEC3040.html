@@ -3,16 +3,23 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MEC3040 — Engine Tune-Up</title>
+  <title>MEC3040 — MEC Digital Word Wall</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-credit="MEC3040">
 <header class="site-header">
   <div class="container">
-    <h1>MEC3040 — Engine Tune-Up</h1>
-    <p class="subtitle">3000 level • Digital word wall page (pre-filled terms).</p>
+    <h1>MEC3040 — Terms</h1>
+    <p class="subtitle">3000 level • Search terms, definitions, and shop examples.</p>
     <p class="subtitle"><a href="index.html">Back to all credits</a></p>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search within this credit…" aria-label="Search within this credit" />
+      <select id="chapterFilter" aria-label="Filter by chapter"></select>
+    </div>
+
     <p class="subtitle"><strong>Checklist:</strong> <a href="#" title="Replace later with your Google Sheet “Make a copy” link">Make a copy</a></p>
+    <p id="count" class="subtitle"></p>
   </div>
 </header>
 
@@ -24,98 +31,7 @@
 
   <section class="panel">
     <h2>Key terms</h2>
-    <div class="cards">
-
-      <article class="card">
-        <h3>Tune-up</h3>
-        <p class="def">Service work that restores engine performance and reliability.</p>
-        <p class="example"><strong>In the shop:</strong> Replacing plugs and inspecting ignition components.</p>
-      </article>
-
-      <article class="card">
-        <h3>Maintenance schedule</h3>
-        <p class="def">Manufacturer recommended service timing and tasks.</p>
-        <p class="example"><strong>In the shop:</strong> Using a schedule to plan tune-up items.</p>
-      </article>
-
-      <article class="card">
-        <h3>Spark plug</h3>
-        <p class="def">Component that ignites air–fuel mixture in gasoline engines.</p>
-        <p class="example"><strong>In the shop:</strong> Inspecting plug wear and correct gap.</p>
-      </article>
-
-      <article class="card">
-        <h3>Plug gap</h3>
-        <p class="def">Distance between spark plug electrodes.</p>
-        <p class="example"><strong>In the shop:</strong> Adjusting gap to specification (when applicable).</p>
-      </article>
-
-      <article class="card">
-        <h3>Ignition coil</h3>
-        <p class="def">Device that increases voltage for the spark.</p>
-        <p class="example"><strong>In the shop:</strong> Testing coil output or swapping for diagnosis.</p>
-      </article>
-
-      <article class="card">
-        <h3>Air filter</h3>
-        <p class="def">Filter that removes dirt from intake air.</p>
-        <p class="example"><strong>In the shop:</strong> Replacing a clogged air filter to improve airflow.</p>
-      </article>
-
-      <article class="card">
-        <h3>Fuel filter</h3>
-        <p class="def">Filter that removes contaminants from fuel (if serviceable).</p>
-        <p class="example"><strong>In the shop:</strong> Checking serviceability and replacement interval.</p>
-      </article>
-
-      <article class="card">
-        <h3>PCV valve</h3>
-        <p class="def">Crankcase ventilation valve that controls blow-by gases.</p>
-        <p class="example"><strong>In the shop:</strong> Replacing a stuck PCV causing oil leaks or idle issues.</p>
-      </article>
-
-      <article class="card">
-        <h3>Throttle body service</h3>
-        <p class="def">Cleaning carbon from throttle plate and bore (when appropriate).</p>
-        <p class="example"><strong>In the shop:</strong> Cleaning throttle body to address sticky throttle/idle.</p>
-      </article>
-
-      <article class="card">
-        <h3>MAF sensor</h3>
-        <p class="def">Measures incoming air mass for fuel calculation.</p>
-        <p class="example"><strong>In the shop:</strong> Using proper cleaner to avoid sensor damage.</p>
-      </article>
-
-      <article class="card">
-        <h3>Battery service</h3>
-        <p class="def">Checking battery condition and terminals.</p>
-        <p class="example"><strong>In the shop:</strong> Cleaning corrosion and testing state of health.</p>
-      </article>
-
-      <article class="card">
-        <h3>Belt inspection</h3>
-        <p class="def">Checking belts for cracks, glazing, and tension.</p>
-        <p class="example"><strong>In the shop:</strong> Replacing a cracked serpentine belt.</p>
-      </article>
-
-      <article class="card">
-        <h3>Cooling system check</h3>
-        <p class="def">Inspecting coolant level, condition, and leaks.</p>
-        <p class="example"><strong>In the shop:</strong> Testing coolant concentration and cap pressure.</p>
-      </article>
-
-      <article class="card">
-        <h3>Emissions check</h3>
-        <p class="def">Confirming basic emissions-related systems are functioning.</p>
-        <p class="example"><strong>In the shop:</strong> Checking for codes and monitor readiness.</p>
-      </article>
-
-      <article class="card">
-        <h3>Final quality check</h3>
-        <p class="def">Confirming no leaks, no loose fasteners, and good running condition.</p>
-        <p class="example"><strong>In the shop:</strong> Road test and re-check after service.</p>
-      </article>
-    </div>
+    <div id="cards" class="cards"></div>
   </section>
 </main>
 
@@ -124,5 +40,7 @@
     <p>Built for classroom reference. Hosted on GitHub Pages.</p>
   </div>
 </footer>
+
+<script src="credit.js"></script>
 </body>
 </html>
